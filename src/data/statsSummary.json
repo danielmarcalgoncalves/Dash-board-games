@@ -1,0 +1,3795 @@
+{
+  "total_games": 16598,
+  "total_global_sales": 8920.44,
+  "total_revenue": 440499.65,
+  "publishers": [
+    {
+      "publisher": "Nintendo",
+      "games_count": 703,
+      "global_sales": 1786.56,
+      "na_sales": 816.87,
+      "eu_sales": 418.74,
+      "jp_sales": 455.42,
+      "other_sales": 95.33,
+      "total_revenue": 77178.81,
+      "avg_score": 74.3,
+      "avg_price": 42.83,
+      "top_genre": "Platform",
+      "top_platform": "Wii",
+      "top_game": "Wii Sports",
+      "top_game_sales": 82.74,
+      "market_share_pct": 20.03
+    },
+    {
+      "publisher": "Electronic Arts",
+      "games_count": 1351,
+      "global_sales": 1110.32,
+      "na_sales": 595.07,
+      "eu_sales": 371.27,
+      "jp_sales": 14.04,
+      "other_sales": 129.77,
+      "total_revenue": 58798.63,
+      "avg_score": 71.4,
+      "avg_price": 50.46,
+      "top_genre": "Sports",
+      "top_platform": "PS2",
+      "top_game": "FIFA 16",
+      "top_game_sales": 8.49,
+      "market_share_pct": 12.45
+    },
+    {
+      "publisher": "Activision",
+      "games_count": 975,
+      "global_sales": 727.46,
+      "na_sales": 429.7,
+      "eu_sales": 215.53,
+      "jp_sales": 6.54,
+      "other_sales": 75.34,
+      "total_revenue": 38942.31,
+      "avg_score": 69.6,
+      "avg_price": 49.32,
+      "top_genre": "Shooter",
+      "top_platform": "X360",
+      "top_game": "Call of Duty: Modern Warfare 3",
+      "top_game_sales": 14.76,
+      "market_share_pct": 8.15
+    },
+    {
+      "publisher": "Sony Computer Entertainment",
+      "games_count": 683,
+      "global_sales": 607.5,
+      "na_sales": 265.22,
+      "eu_sales": 187.72,
+      "jp_sales": 74.1,
+      "other_sales": 80.45,
+      "total_revenue": 30999.2,
+      "avg_score": 71.2,
+      "avg_price": 48.37,
+      "top_genre": "Racing",
+      "top_platform": "PS",
+      "top_game": "Gran Turismo 3: A-Spec",
+      "top_game_sales": 14.98,
+      "market_share_pct": 6.81
+    },
+    {
+      "publisher": "Ubisoft",
+      "games_count": 921,
+      "global_sales": 474.72,
+      "na_sales": 253.43,
+      "eu_sales": 163.32,
+      "jp_sales": 7.5,
+      "other_sales": 50.26,
+      "total_revenue": 24055.73,
+      "avg_score": 69.5,
+      "avg_price": 46.91,
+      "top_genre": "Action",
+      "top_platform": "Wii",
+      "top_game": "Just Dance 3",
+      "top_game_sales": 10.26,
+      "market_share_pct": 5.32
+    },
+    {
+      "publisher": "Take-Two Interactive",
+      "games_count": 413,
+      "global_sales": 399.54,
+      "na_sales": 220.49,
+      "eu_sales": 118.14,
+      "jp_sales": 5.83,
+      "other_sales": 55.24,
+      "total_revenue": 21805.03,
+      "avg_score": 71.0,
+      "avg_price": 51.34,
+      "top_genre": "Action",
+      "top_platform": "X360",
+      "top_game": "Grand Theft Auto V",
+      "top_game_sales": 21.4,
+      "market_share_pct": 4.48
+    },
+    {
+      "publisher": "THQ",
+      "games_count": 715,
+      "global_sales": 340.77,
+      "na_sales": 208.77,
+      "eu_sales": 94.73,
+      "jp_sales": 5.01,
+      "other_sales": 32.14,
+      "total_revenue": 16010.64,
+      "avg_score": 69.2,
+      "avg_price": 45.38,
+      "top_genre": "Action",
+      "top_platform": "PS2",
+      "top_game": "WWF SmackDown!",
+      "top_game_sales": 3.58,
+      "market_share_pct": 3.82
+    },
+    {
+      "publisher": "Konami Digital Entertainment",
+      "games_count": 832,
+      "global_sales": 283.64,
+      "na_sales": 92.16,
+      "eu_sales": 69.69,
+      "jp_sales": 91.3,
+      "other_sales": 30.31,
+      "total_revenue": 13840.45,
+      "avg_score": 69.4,
+      "avg_price": 46.63,
+      "top_genre": "Sports",
+      "top_platform": "PS2",
+      "top_game": "Metal Gear Solid 2: Sons of Liberty",
+      "top_game_sales": 6.05,
+      "market_share_pct": 3.18
+    },
+    {
+      "publisher": "Sega",
+      "games_count": 639,
+      "global_sales": 272.99,
+      "na_sales": 109.4,
+      "eu_sales": 82.0,
+      "jp_sales": 57.03,
+      "other_sales": 24.52,
+      "total_revenue": 13326.97,
+      "avg_score": 69.3,
+      "avg_price": 47.62,
+      "top_genre": "Sports",
+      "top_platform": "Wii",
+      "top_game": "Mario & Sonic at the Olympic Games",
+      "top_game_sales": 8.06,
+      "market_share_pct": 3.06
+    },
+    {
+      "publisher": "Namco Bandai Games",
+      "games_count": 932,
+      "global_sales": 254.09,
+      "na_sales": 69.52,
+      "eu_sales": 42.63,
+      "jp_sales": 127.07,
+      "other_sales": 14.69,
+      "total_revenue": 12719.67,
+      "avg_score": 68.8,
+      "avg_price": 46.99,
+      "top_genre": "Fighting",
+      "top_platform": "PS2",
+      "top_game": "Namco Museum",
+      "top_game_sales": 4.24,
+      "market_share_pct": 2.85
+    },
+    {
+      "publisher": "Microsoft Game Studios",
+      "games_count": 189,
+      "global_sales": 245.79,
+      "na_sales": 155.35,
+      "eu_sales": 68.61,
+      "jp_sales": 3.26,
+      "other_sales": 18.56,
+      "total_revenue": 14061.73,
+      "avg_score": 72.7,
+      "avg_price": 53.04,
+      "top_genre": "Shooter",
+      "top_platform": "X360",
+      "top_game": "Kinect Adventures!",
+      "top_game_sales": 21.82,
+      "market_share_pct": 2.76
+    },
+    {
+      "publisher": "Capcom",
+      "games_count": 381,
+      "global_sales": 200.89,
+      "na_sales": 78.59,
+      "eu_sales": 39.22,
+      "jp_sales": 68.08,
+      "other_sales": 14.84,
+      "total_revenue": 10232.89,
+      "avg_score": 69.8,
+      "avg_price": 49.32,
+      "top_genre": "Action",
+      "top_platform": "PS2",
+      "top_game": "Street Fighter II: The World Warrior",
+      "top_game_sales": 6.3,
+      "market_share_pct": 2.25
+    },
+    {
+      "publisher": "Atari",
+      "games_count": 363,
+      "global_sales": 157.22,
+      "na_sales": 110.04,
+      "eu_sales": 27.12,
+      "jp_sales": 10.71,
+      "other_sales": 9.01,
+      "total_revenue": 6945.71,
+      "avg_score": 68.9,
+      "avg_price": 44.23,
+      "top_genre": "Action",
+      "top_platform": "2600",
+      "top_game": "Pac-Man",
+      "top_game_sales": 7.81,
+      "market_share_pct": 1.76
+    },
+    {
+      "publisher": "Warner Bros. Interactive Entertainment",
+      "games_count": 232,
+      "global_sales": 153.89,
+      "na_sales": 81.18,
+      "eu_sales": 53.12,
+      "jp_sales": 1.04,
+      "other_sales": 18.56,
+      "total_revenue": 8206.9,
+      "avg_score": 71.2,
+      "avg_price": 50.27,
+      "top_genre": "Action",
+      "top_platform": "X360",
+      "top_game": "Batman: Arkham City",
+      "top_game_sales": 5.53,
+      "market_share_pct": 1.73
+    },
+    {
+      "publisher": "Square Enix",
+      "games_count": 233,
+      "global_sales": 145.18,
+      "na_sales": 48.65,
+      "eu_sales": 32.82,
+      "jp_sales": 49.88,
+      "other_sales": 13.89,
+      "total_revenue": 7545.86,
+      "avg_score": 70.3,
+      "avg_price": 50.36,
+      "top_genre": "Role-Playing",
+      "top_platform": "PS3",
+      "top_game": "Final Fantasy XII",
+      "top_game_sales": 5.95,
+      "market_share_pct": 1.63
+    },
+    {
+      "publisher": "Disney Interactive Studios",
+      "games_count": 218,
+      "global_sales": 119.96,
+      "na_sales": 71.34,
+      "eu_sales": 34.64,
+      "jp_sales": 0.56,
+      "other_sales": 13.18,
+      "total_revenue": 5386.48,
+      "avg_score": 69.9,
+      "avg_price": 44.66,
+      "top_genre": "Action",
+      "top_platform": "DS",
+      "top_game": "Club Penguin: Elite Penguin Force",
+      "top_game_sales": 3.16,
+      "market_share_pct": 1.34
+    },
+    {
+      "publisher": "Eidos Interactive",
+      "games_count": 198,
+      "global_sales": 98.98,
+      "na_sales": 49.19,
+      "eu_sales": 35.63,
+      "jp_sales": 6.11,
+      "other_sales": 8.02,
+      "total_revenue": 4948.65,
+      "avg_score": 69.7,
+      "avg_price": 48.46,
+      "top_genre": "Action",
+      "top_platform": "PS",
+      "top_game": "Tomb Raider II",
+      "top_game_sales": 5.24,
+      "market_share_pct": 1.11
+    },
+    {
+      "publisher": "LucasArts",
+      "games_count": 90,
+      "global_sales": 87.34,
+      "na_sales": 49.97,
+      "eu_sales": 26.63,
+      "jp_sales": 0.2,
+      "other_sales": 10.5,
+      "total_revenue": 4361.35,
+      "avg_score": 74.0,
+      "avg_price": 48.86,
+      "top_genre": "Action",
+      "top_platform": "PS2",
+      "top_game": "LEGO Star Wars: The Complete Saga",
+      "top_game_sales": 5.83,
+      "market_share_pct": 0.98
+    },
+    {
+      "publisher": "Bethesda Softworks",
+      "games_count": 71,
+      "global_sales": 82.14,
+      "na_sales": 39.72,
+      "eu_sales": 30.73,
+      "jp_sales": 1.45,
+      "other_sales": 10.16,
+      "total_revenue": 4931.8,
+      "avg_score": 73.4,
+      "avg_price": 56.35,
+      "top_genre": "Role-Playing",
+      "top_platform": "X360",
+      "top_game": "The Elder Scrolls V: Skyrim",
+      "top_game_sales": 8.84,
+      "market_share_pct": 0.92
+    },
+    {
+      "publisher": "Midway Games",
+      "games_count": 198,
+      "global_sales": 69.85,
+      "na_sales": 45.46,
+      "eu_sales": 18.38,
+      "jp_sales": 0.12,
+      "other_sales": 5.74,
+      "total_revenue": 3515.92,
+      "avg_score": 68.9,
+      "avg_price": 49.58,
+      "top_genre": "Sports",
+      "top_platform": "PS2",
+      "top_game": "Game Party",
+      "top_game_sales": 2.52,
+      "market_share_pct": 0.78
+    },
+    {
+      "publisher": "Acclaim Entertainment",
+      "games_count": 184,
+      "global_sales": 64.14,
+      "na_sales": 42.75,
+      "eu_sales": 16.75,
+      "jp_sales": 1.14,
+      "other_sales": 3.37,
+      "total_revenue": 3344.05,
+      "avg_score": 67.6,
+      "avg_price": 50.2,
+      "top_genre": "Sports",
+      "top_platform": "PS",
+      "top_game": "WWF War Zone",
+      "top_game_sales": 3.36,
+      "market_share_pct": 0.72
+    },
+    {
+      "publisher": "Vivendi Games",
+      "games_count": 164,
+      "global_sales": 58.21,
+      "na_sales": 37.0,
+      "eu_sales": 16.04,
+      "jp_sales": 0.23,
+      "other_sales": 4.88,
+      "total_revenue": 2678.87,
+      "avg_score": 70.3,
+      "avg_price": 45.85,
+      "top_genre": "Platform",
+      "top_platform": "PS2",
+      "top_game": "The Simpsons: Hit & Run",
+      "top_game_sales": 4.7,
+      "market_share_pct": 0.65
+    },
+    {
+      "publisher": "SquareSoft",
+      "games_count": 52,
+      "global_sales": 57.65,
+      "na_sales": 11.06,
+      "eu_sales": 4.95,
+      "jp_sales": 40.13,
+      "other_sales": 1.54,
+      "total_revenue": 3016.48,
+      "avg_score": 72.6,
+      "avg_price": 51.56,
+      "top_genre": "Role-Playing",
+      "top_platform": "PS",
+      "top_game": "Final Fantasy VIII",
+      "top_game_sales": 7.86,
+      "market_share_pct": 0.65
+    },
+    {
+      "publisher": "505 Games",
+      "games_count": 192,
+      "global_sales": 55.91,
+      "na_sales": 31.83,
+      "eu_sales": 16.43,
+      "jp_sales": 2.05,
+      "other_sales": 5.44,
+      "total_revenue": 2700.29,
+      "avg_score": 68.5,
+      "avg_price": 47.19,
+      "top_genre": "Simulation",
+      "top_platform": "DS",
+      "top_game": "Zumba Fitness",
+      "top_game_sales": 6.81,
+      "market_share_pct": 0.63
+    },
+    {
+      "publisher": "Tecmo Koei",
+      "games_count": 338,
+      "global_sales": 53.55,
+      "na_sales": 14.08,
+      "eu_sales": 7.08,
+      "jp_sales": 29.21,
+      "other_sales": 3.18,
+      "total_revenue": 2799.75,
+      "avg_score": 68.5,
+      "avg_price": 50.08,
+      "top_genre": "Action",
+      "top_platform": "PS2",
+      "top_game": "Dynasty Warriors 4",
+      "top_game_sales": 2.11,
+      "market_share_pct": 0.6
+    },
+    {
+      "publisher": "Codemasters",
+      "games_count": 152,
+      "global_sales": 47.87,
+      "na_sales": 11.92,
+      "eu_sales": 28.69,
+      "jp_sales": 0.83,
+      "other_sales": 6.3,
+      "total_revenue": 2619.13,
+      "avg_score": 70.4,
+      "avg_price": 51.55,
+      "top_genre": "Racing",
+      "top_platform": "PS3",
+      "top_game": "Colin McRae Rally",
+      "top_game_sales": 2.87,
+      "market_share_pct": 0.54
+    },
+    {
+      "publisher": "Virgin Interactive",
+      "games_count": 62,
+      "global_sales": 43.87,
+      "na_sales": 18.99,
+      "eu_sales": 12.94,
+      "jp_sales": 8.94,
+      "other_sales": 3.03,
+      "total_revenue": 2183.82,
+      "avg_score": 69.4,
+      "avg_price": 50.09,
+      "top_genre": "Action",
+      "top_platform": "PS",
+      "top_game": "Resident Evil 2",
+      "top_game_sales": 5.82,
+      "market_share_pct": 0.49
+    },
+    {
+      "publisher": "Enix Corporation",
+      "games_count": 30,
+      "global_sales": 33.74,
+      "na_sales": 0.76,
+      "eu_sales": 0.31,
+      "jp_sales": 32.4,
+      "other_sales": 0.27,
+      "total_revenue": 1782.62,
+      "avg_score": 73.4,
+      "avg_price": 50.3,
+      "top_genre": "Role-Playing",
+      "top_platform": "SNES",
+      "top_game": "Dragon Quest VII: Warriors of Eden",
+      "top_game_sales": 4.47,
+      "market_share_pct": 0.38
+    },
+    {
+      "publisher": "Deep Silver",
+      "games_count": 122,
+      "global_sales": 25.67,
+      "na_sales": 12.73,
+      "eu_sales": 8.96,
+      "jp_sales": 1.09,
+      "other_sales": 2.88,
+      "total_revenue": 1416.41,
+      "avg_score": 68.6,
+      "avg_price": 50.95,
+      "top_genre": "Action",
+      "top_platform": "X360",
+      "top_game": "Dead Island",
+      "top_game_sales": 2.39,
+      "market_share_pct": 0.29
+    },
+    {
+      "publisher": "GT Interactive",
+      "games_count": 45,
+      "global_sales": 25.23,
+      "na_sales": 15.57,
+      "eu_sales": 8.49,
+      "jp_sales": 0.02,
+      "other_sales": 1.14,
+      "total_revenue": 1322.71,
+      "avg_score": 70.8,
+      "avg_price": 54.55,
+      "top_genre": "Action",
+      "top_platform": "PS",
+      "top_game": "Driver",
+      "top_game_sales": 6.27,
+      "market_share_pct": 0.28
+    },
+    {
+      "publisher": "D3Publisher",
+      "games_count": 184,
+      "global_sales": 24.13,
+      "na_sales": 11.52,
+      "eu_sales": 5.01,
+      "jp_sales": 4.65,
+      "other_sales": 2.88,
+      "total_revenue": 1106.64,
+      "avg_score": 67.3,
+      "avg_price": 44.06,
+      "top_genre": "Action",
+      "top_platform": "DS",
+      "top_game": "Ben 10: Protector of Earth",
+      "top_game_sales": 1.7,
+      "market_share_pct": 0.27
+    },
+    {
+      "publisher": "Sony Computer Entertainment Europe",
+      "games_count": 15,
+      "global_sales": 23.89,
+      "na_sales": 8.96,
+      "eu_sales": 9.0,
+      "jp_sales": 2.5,
+      "other_sales": 3.42,
+      "total_revenue": 1226.6,
+      "avg_score": 75.0,
+      "avg_price": 49.66,
+      "top_genre": "Misc",
+      "top_platform": "PS4",
+      "top_game": "The Last of Us",
+      "top_game_sales": 5.99,
+      "market_share_pct": 0.27
+    },
+    {
+      "publisher": "Hudson Soft",
+      "games_count": 81,
+      "global_sales": 23.01,
+      "na_sales": 2.55,
+      "eu_sales": 0.94,
+      "jp_sales": 19.21,
+      "other_sales": 0.32,
+      "total_revenue": 1131.25,
+      "avg_score": 68.8,
+      "avg_price": 45.97,
+      "top_genre": "Puzzle",
+      "top_platform": "NES",
+      "top_game": "Ninja Hattori Kun: Ninja wa Shuugyou Degogiru no Maki",
+      "top_game_sales": 1.5,
+      "market_share_pct": 0.26
+    },
+    {
+      "publisher": "MTV Games",
+      "games_count": 41,
+      "global_sales": 20.97,
+      "na_sales": 14.98,
+      "eu_sales": 4.01,
+      "jp_sales": 0.01,
+      "other_sales": 2.03,
+      "total_revenue": 981.22,
+      "avg_score": 69.3,
+      "avg_price": 46.22,
+      "top_genre": "Misc",
+      "top_platform": "Wii",
+      "top_game": "Dance Central",
+      "top_game_sales": 3.19,
+      "market_share_pct": 0.24
+    },
+    {
+      "publisher": "Universal Interactive",
+      "games_count": 23,
+      "global_sales": 17.77,
+      "na_sales": 9.08,
+      "eu_sales": 6.73,
+      "jp_sales": 0.24,
+      "other_sales": 1.75,
+      "total_revenue": 823.92,
+      "avg_score": 71.4,
+      "avg_price": 45.84,
+      "top_genre": "Platform",
+      "top_platform": "PS2",
+      "top_game": "Crash Bandicoot: The Wrath of Cortex",
+      "top_game_sales": 5.42,
+      "market_share_pct": 0.2
+    },
+    {
+      "publisher": "Banpresto",
+      "games_count": 73,
+      "global_sales": 17.4,
+      "na_sales": 0.41,
+      "eu_sales": 0.2,
+      "jp_sales": 16.44,
+      "other_sales": 0.36,
+      "total_revenue": 828.07,
+      "avg_score": 68.6,
+      "avg_price": 46.34,
+      "top_genre": "Strategy",
+      "top_platform": "PS2",
+      "top_game": "Super Puyo Puyo",
+      "top_game_sales": 1.7,
+      "market_share_pct": 0.2
+    },
+    {
+      "publisher": "Rising Star Games",
+      "games_count": 86,
+      "global_sales": 17.31,
+      "na_sales": 10.5,
+      "eu_sales": 2.98,
+      "jp_sales": 2.53,
+      "other_sales": 1.22,
+      "total_revenue": 773.64,
+      "avg_score": 68.4,
+      "avg_price": 43.28,
+      "top_genre": "Role-Playing",
+      "top_platform": "DS",
+      "top_game": "Hello Kitty Party",
+      "top_game_sales": 1.44,
+      "market_share_pct": 0.19
+    },
+    {
+      "publisher": "Infogrames",
+      "games_count": 62,
+      "global_sales": 16.34,
+      "na_sales": 10.5,
+      "eu_sales": 4.6,
+      "jp_sales": 0.38,
+      "other_sales": 0.85,
+      "total_revenue": 720.28,
+      "avg_score": 68.6,
+      "avg_price": 47.48,
+      "top_genre": "Misc",
+      "top_platform": "PS",
+      "top_game": "Sonic Mega Collection",
+      "top_game_sales": 2.05,
+      "market_share_pct": 0.18
+    },
+    {
+      "publisher": "Majesco Entertainment",
+      "games_count": 92,
+      "global_sales": 16.08,
+      "na_sales": 12.08,
+      "eu_sales": 2.91,
+      "jp_sales": 0.02,
+      "other_sales": 0.96,
+      "total_revenue": 649.56,
+      "avg_score": 68.7,
+      "avg_price": 40.51,
+      "top_genre": "Sports",
+      "top_platform": "Wii",
+      "top_game": "Zumba Fitness 2",
+      "top_game_sales": 2.88,
+      "market_share_pct": 0.18
+    },
+    {
+      "publisher": "Hasbro Interactive",
+      "games_count": 16,
+      "global_sales": 15.22,
+      "na_sales": 10.99,
+      "eu_sales": 3.58,
+      "jp_sales": 0.0,
+      "other_sales": 0.64,
+      "total_revenue": 702.44,
+      "avg_score": 75.2,
+      "avg_price": 45.29,
+      "top_genre": "Misc",
+      "top_platform": "PS",
+      "top_game": "Frogger",
+      "top_game_sales": 4.16,
+      "market_share_pct": 0.17
+    },
+    {
+      "publisher": "N/A",
+      "games_count": 58,
+      "global_sales": 14.88,
+      "na_sales": 8.54,
+      "eu_sales": 4.68,
+      "jp_sales": 0.93,
+      "other_sales": 0.67,
+      "total_revenue": 542.2,
+      "avg_score": 68.0,
+      "avg_price": 36.89,
+      "top_genre": "Misc",
+      "top_platform": "GBA",
+      "top_game": "wwe Smackdown vs. Raw 2006",
+      "top_game_sales": 3.0,
+      "market_share_pct": 0.17
+    },
+    {
+      "publisher": "Nippon Ichi Software",
+      "games_count": 105,
+      "global_sales": 14.28,
+      "na_sales": 5.22,
+      "eu_sales": 1.93,
+      "jp_sales": 5.87,
+      "other_sales": 1.35,
+      "total_revenue": 728.59,
+      "avg_score": 68.9,
+      "avg_price": 49.57,
+      "top_genre": "Role-Playing",
+      "top_platform": "PS3",
+      "top_game": "Persona Q: Shadow of the Labyrinth",
+      "top_game_sales": 0.71,
+      "market_share_pct": 0.16
+    },
+    {
+      "publisher": "989 Studios",
+      "games_count": 14,
+      "global_sales": 13.32,
+      "na_sales": 9.23,
+      "eu_sales": 3.3,
+      "jp_sales": 0.1,
+      "other_sales": 0.67,
+      "total_revenue": 665.89,
+      "avg_score": 72.0,
+      "avg_price": 49.99,
+      "top_genre": "Sports",
+      "top_platform": "PS",
+      "top_game": "Cool Boarders 3",
+      "top_game_sales": 2.31,
+      "market_share_pct": 0.15
+    },
+    {
+      "publisher": "Zoo Digital Publishing",
+      "games_count": 104,
+      "global_sales": 12.87,
+      "na_sales": 9.52,
+      "eu_sales": 2.45,
+      "jp_sales": 0.14,
+      "other_sales": 0.78,
+      "total_revenue": 520.68,
+      "avg_score": 67.4,
+      "avg_price": 38.2,
+      "top_genre": "Racing",
+      "top_platform": "GBA",
+      "top_game": "Cabela's Dangerous Hunts",
+      "top_game_sales": 1.17,
+      "market_share_pct": 0.14
+    },
+    {
+      "publisher": "Atlus",
+      "games_count": 67,
+      "global_sales": 12.74,
+      "na_sales": 4.2,
+      "eu_sales": 1.1,
+      "jp_sales": 6.73,
+      "other_sales": 0.77,
+      "total_revenue": 610.84,
+      "avg_score": 69.9,
+      "avg_price": 46.89,
+      "top_genre": "Role-Playing",
+      "top_platform": "3DS",
+      "top_game": "Persona 4: Golden",
+      "top_game_sales": 1.38,
+      "market_share_pct": 0.14
+    },
+    {
+      "publisher": "Level 5",
+      "games_count": 27,
+      "global_sales": 12.17,
+      "na_sales": 0.2,
+      "eu_sales": 0.27,
+      "jp_sales": 11.65,
+      "other_sales": 0.04,
+      "total_revenue": 494.13,
+      "avg_score": 67.1,
+      "avg_price": 40.43,
+      "top_genre": "Role-Playing",
+      "top_platform": "3DS",
+      "top_game": "Yokai Watch 2 Shinuchi",
+      "top_game_sales": 2.68,
+      "market_share_pct": 0.14
+    },
+    {
+      "publisher": "Empire Interactive",
+      "games_count": 52,
+      "global_sales": 11.29,
+      "na_sales": 6.03,
+      "eu_sales": 3.77,
+      "jp_sales": 0.42,
+      "other_sales": 1.12,
+      "total_revenue": 533.66,
+      "avg_score": 67.5,
+      "avg_price": 45.31,
+      "top_genre": "Racing",
+      "top_platform": "PS2",
+      "top_game": "Bad Boys: Miami Takedown",
+      "top_game_sales": 1.15,
+      "market_share_pct": 0.13
+    },
+    {
+      "publisher": "ASCII Entertainment",
+      "games_count": 20,
+      "global_sales": 10.89,
+      "na_sales": 0.7,
+      "eu_sales": 0.44,
+      "jp_sales": 9.4,
+      "other_sales": 0.36,
+      "total_revenue": 554.25,
+      "avg_score": 68.0,
+      "avg_price": 50.35,
+      "top_genre": "Sports",
+      "top_platform": "PS",
+      "top_game": "Derby Stallion",
+      "top_game_sales": 2.09,
+      "market_share_pct": 0.12
+    },
+    {
+      "publisher": "3DO",
+      "games_count": 36,
+      "global_sales": 10.12,
+      "na_sales": 6.48,
+      "eu_sales": 3.04,
+      "jp_sales": 0.0,
+      "other_sales": 0.63,
+      "total_revenue": 527.12,
+      "avg_score": 68.6,
+      "avg_price": 50.98,
+      "top_genre": "Action",
+      "top_platform": "PS",
+      "top_game": "Army Men 3D",
+      "top_game_sales": 1.28,
+      "market_share_pct": 0.11
+    },
+    {
+      "publisher": "Crave Entertainment",
+      "games_count": 71,
+      "global_sales": 9.93,
+      "na_sales": 6.91,
+      "eu_sales": 1.87,
+      "jp_sales": 0.45,
+      "other_sales": 0.67,
+      "total_revenue": 462.97,
+      "avg_score": 69.4,
+      "avg_price": 45.27,
+      "top_genre": "Misc",
+      "top_platform": "PS2",
+      "top_game": "Tokyo Xtreme Racer Zero",
+      "top_game_sales": 1.5,
+      "market_share_pct": 0.11
+    },
+    {
+      "publisher": "RedOctane",
+      "games_count": 4,
+      "global_sales": 8.68,
+      "na_sales": 6.44,
+      "eu_sales": 1.31,
+      "jp_sales": 0.03,
+      "other_sales": 0.91,
+      "total_revenue": 368.81,
+      "avg_score": 74.2,
+      "avg_price": 42.49,
+      "top_genre": "Misc",
+      "top_platform": "PS2",
+      "top_game": "Guitar Hero II",
+      "top_game_sales": 5.12,
+      "market_share_pct": 0.1
+    },
+    {
+      "publisher": "TDK Mediactive",
+      "games_count": 36,
+      "global_sales": 8.31,
+      "na_sales": 5.41,
+      "eu_sales": 2.42,
+      "jp_sales": 0.0,
+      "other_sales": 0.45,
+      "total_revenue": 343.73,
+      "avg_score": 69.1,
+      "avg_price": 42.67,
+      "top_genre": "Platform",
+      "top_platform": "GBA",
+      "top_game": "Corvette",
+      "top_game_sales": 1.33,
+      "market_share_pct": 0.09
+    },
+    {
+      "publisher": "Mindscape",
+      "games_count": 32,
+      "global_sales": 7.74,
+      "na_sales": 4.64,
+      "eu_sales": 2.51,
+      "jp_sales": 0.0,
+      "other_sales": 0.55,
+      "total_revenue": 313.76,
+      "avg_score": 69.4,
+      "avg_price": 42.62,
+      "top_genre": "Misc",
+      "top_platform": "Wii",
+      "top_game": "Wipeout: The Game",
+      "top_game_sales": 2.09,
+      "market_share_pct": 0.09
+    },
+    {
+      "publisher": "Global Star",
+      "games_count": 39,
+      "global_sales": 7.65,
+      "na_sales": 5.25,
+      "eu_sales": 1.71,
+      "jp_sales": 0.0,
+      "other_sales": 0.63,
+      "total_revenue": 366.93,
+      "avg_score": 67.2,
+      "avg_price": 47.86,
+      "top_genre": "Sports",
+      "top_platform": "PS2",
+      "top_game": "ESPN NBA 2K5",
+      "top_game_sales": 1.59,
+      "market_share_pct": 0.09
+    },
+    {
+      "publisher": "Focus Home Interactive",
+      "games_count": 58,
+      "global_sales": 7.51,
+      "na_sales": 1.72,
+      "eu_sales": 4.69,
+      "jp_sales": 0.04,
+      "other_sales": 1.04,
+      "total_revenue": 367.48,
+      "avg_score": 69.6,
+      "avg_price": 47.86,
+      "top_genre": "Simulation",
+      "top_platform": "PC",
+      "top_game": "Farming Simulator 2015",
+      "top_game_sales": 1.23,
+      "market_share_pct": 0.08
+    },
+    {
+      "publisher": "Fox Interactive",
+      "games_count": 8,
+      "global_sales": 7.39,
+      "na_sales": 3.76,
+      "eu_sales": 3.19,
+      "jp_sales": 0.0,
+      "other_sales": 0.43,
+      "total_revenue": 377.28,
+      "avg_score": 73.0,
+      "avg_price": 52.18,
+      "top_genre": "Platform",
+      "top_platform": "PS",
+      "top_game": "Croc: Legend of the Gobbos",
+      "top_game_sales": 3.56,
+      "market_share_pct": 0.08
+    },
+    {
+      "publisher": "Psygnosis",
+      "games_count": 32,
+      "global_sales": 7.27,
+      "na_sales": 3.63,
+      "eu_sales": 2.48,
+      "jp_sales": 0.72,
+      "other_sales": 0.45,
+      "total_revenue": 360.69,
+      "avg_score": 69.3,
+      "avg_price": 48.43,
+      "top_genre": "Racing",
+      "top_platform": "PS",
+      "top_game": "Destruction Derby 2",
+      "top_game_sales": 1.17,
+      "market_share_pct": 0.08
+    },
+    {
+      "publisher": "Activision Value",
+      "games_count": 29,
+      "global_sales": 6.96,
+      "na_sales": 5.53,
+      "eu_sales": 0.88,
+      "jp_sales": 0.0,
+      "other_sales": 0.57,
+      "total_revenue": 364.98,
+      "avg_score": 68.2,
+      "avg_price": 52.52,
+      "top_genre": "Sports",
+      "top_platform": "Wii",
+      "top_game": "Cabela's Big Game Hunter 2010",
+      "top_game_sales": 1.7,
+      "market_share_pct": 0.08
+    },
+    {
+      "publisher": "Ignition Entertainment",
+      "games_count": 61,
+      "global_sales": 6.82,
+      "na_sales": 4.03,
+      "eu_sales": 1.36,
+      "jp_sales": 0.68,
+      "other_sales": 0.59,
+      "total_revenue": 307.2,
+      "avg_score": 69.3,
+      "avg_price": 44.41,
+      "top_genre": "Fighting",
+      "top_platform": "PS2",
+      "top_game": "Archer Maclean's Mercury",
+      "top_game_sales": 0.56,
+      "market_share_pct": 0.08
+    },
+    {
+      "publisher": "Interplay",
+      "games_count": 30,
+      "global_sales": 6.66,
+      "na_sales": 3.86,
+      "eu_sales": 2.27,
+      "jp_sales": 0.01,
+      "other_sales": 0.48,
+      "total_revenue": 315.14,
+      "avg_score": 66.8,
+      "avg_price": 49.22,
+      "top_genre": "Action",
+      "top_platform": "PS",
+      "top_game": "Casper",
+      "top_game_sales": 0.83,
+      "market_share_pct": 0.07
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Action",
+      "games_count": 3316,
+      "global_sales": 1751.18,
+      "na_sales": 877.83,
+      "eu_sales": 525.0,
+      "jp_sales": 159.95,
+      "other_sales": 187.38,
+      "total_revenue": 90645.38,
+      "avg_score": 70.2,
+      "avg_price": 48.87,
+      "market_share_pct": 19.63
+    },
+    {
+      "genre": "Sports",
+      "games_count": 2346,
+      "global_sales": 1330.93,
+      "na_sales": 683.35,
+      "eu_sales": 376.85,
+      "jp_sales": 135.37,
+      "other_sales": 134.97,
+      "total_revenue": 67068.32,
+      "avg_score": 69.8,
+      "avg_price": 50.23,
+      "market_share_pct": 14.92
+    },
+    {
+      "genre": "Shooter",
+      "games_count": 1310,
+      "global_sales": 1037.37,
+      "na_sales": 582.6,
+      "eu_sales": 313.27,
+      "jp_sales": 38.28,
+      "other_sales": 102.69,
+      "total_revenue": 60278.29,
+      "avg_score": 70.7,
+      "avg_price": 54.04,
+      "market_share_pct": 11.63
+    },
+    {
+      "genre": "Role-Playing",
+      "games_count": 1488,
+      "global_sales": 927.37,
+      "na_sales": 327.28,
+      "eu_sales": 188.06,
+      "jp_sales": 352.31,
+      "other_sales": 59.61,
+      "total_revenue": 44690.88,
+      "avg_score": 69.8,
+      "avg_price": 48.89,
+      "market_share_pct": 10.4
+    },
+    {
+      "genre": "Platform",
+      "games_count": 886,
+      "global_sales": 831.37,
+      "na_sales": 447.05,
+      "eu_sales": 201.63,
+      "jp_sales": 130.77,
+      "other_sales": 51.59,
+      "total_revenue": 39373.91,
+      "avg_score": 70.1,
+      "avg_price": 45.98,
+      "market_share_pct": 9.32
+    },
+    {
+      "genre": "Misc",
+      "games_count": 1739,
+      "global_sales": 809.96,
+      "na_sales": 410.24,
+      "eu_sales": 215.98,
+      "jp_sales": 107.76,
+      "other_sales": 75.32,
+      "total_revenue": 33627.29,
+      "avg_score": 69.3,
+      "avg_price": 40.04,
+      "market_share_pct": 9.08
+    },
+    {
+      "genre": "Racing",
+      "games_count": 1249,
+      "global_sales": 732.04,
+      "na_sales": 359.42,
+      "eu_sales": 238.39,
+      "jp_sales": 56.69,
+      "other_sales": 77.27,
+      "total_revenue": 37343.1,
+      "avg_score": 69.5,
+      "avg_price": 49.76,
+      "market_share_pct": 8.21
+    },
+    {
+      "genre": "Fighting",
+      "games_count": 848,
+      "global_sales": 448.91,
+      "na_sales": 223.59,
+      "eu_sales": 101.32,
+      "jp_sales": 87.35,
+      "other_sales": 36.68,
+      "total_revenue": 23361.77,
+      "avg_score": 69.3,
+      "avg_price": 50.01,
+      "market_share_pct": 5.03
+    },
+    {
+      "genre": "Simulation",
+      "games_count": 867,
+      "global_sales": 392.2,
+      "na_sales": 183.31,
+      "eu_sales": 113.38,
+      "jp_sales": 63.7,
+      "other_sales": 31.52,
+      "total_revenue": 17891.17,
+      "avg_score": 69.0,
+      "avg_price": 45.85,
+      "market_share_pct": 4.4
+    },
+    {
+      "genre": "Puzzle",
+      "games_count": 582,
+      "global_sales": 244.95,
+      "na_sales": 123.78,
+      "eu_sales": 50.78,
+      "jp_sales": 57.31,
+      "other_sales": 12.55,
+      "total_revenue": 8609.18,
+      "avg_score": 68.8,
+      "avg_price": 36.63,
+      "market_share_pct": 2.75
+    },
+    {
+      "genre": "Adventure",
+      "games_count": 1286,
+      "global_sales": 239.04,
+      "na_sales": 105.8,
+      "eu_sales": 64.13,
+      "jp_sales": 52.07,
+      "other_sales": 16.81,
+      "total_revenue": 9382.32,
+      "avg_score": 68.4,
+      "avg_price": 38.87,
+      "market_share_pct": 2.68
+    },
+    {
+      "genre": "Strategy",
+      "games_count": 681,
+      "global_sales": 175.12,
+      "na_sales": 68.7,
+      "eu_sales": 45.34,
+      "jp_sales": 49.46,
+      "other_sales": 11.36,
+      "total_revenue": 8228.04,
+      "avg_score": 68.8,
+      "avg_price": 46.64,
+      "market_share_pct": 1.96
+    }
+  ],
+  "platforms": [
+    {
+      "platform": "PS2",
+      "games_count": 2161,
+      "global_sales": 1255.64,
+      "na_sales": 583.84,
+      "eu_sales": 339.29,
+      "jp_sales": 139.2,
+      "other_sales": 193.44,
+      "total_revenue": 62313.66,
+      "avg_score": 69.9,
+      "market_share_pct": 14.08
+    },
+    {
+      "platform": "X360",
+      "games_count": 1265,
+      "global_sales": 979.96,
+      "na_sales": 601.05,
+      "eu_sales": 280.58,
+      "jp_sales": 12.43,
+      "other_sales": 85.54,
+      "total_revenue": 58868.14,
+      "avg_score": 70.4,
+      "market_share_pct": 10.99
+    },
+    {
+      "platform": "PS3",
+      "games_count": 1329,
+      "global_sales": 957.84,
+      "na_sales": 392.26,
+      "eu_sales": 343.71,
+      "jp_sales": 79.99,
+      "other_sales": 141.93,
+      "total_revenue": 57633.64,
+      "avg_score": 70.1,
+      "market_share_pct": 10.74
+    },
+    {
+      "platform": "Wii",
+      "games_count": 1325,
+      "global_sales": 926.71,
+      "na_sales": 507.71,
+      "eu_sales": 268.38,
+      "jp_sales": 69.35,
+      "other_sales": 80.61,
+      "total_revenue": 42451.48,
+      "avg_score": 69.4,
+      "market_share_pct": 10.39
+    },
+    {
+      "platform": "DS",
+      "games_count": 2163,
+      "global_sales": 822.49,
+      "na_sales": 390.71,
+      "eu_sales": 194.65,
+      "jp_sales": 175.57,
+      "other_sales": 60.53,
+      "total_revenue": 31547.38,
+      "avg_score": 68.8,
+      "market_share_pct": 9.22
+    },
+    {
+      "platform": "PS",
+      "games_count": 1196,
+      "global_sales": 730.66,
+      "na_sales": 336.51,
+      "eu_sales": 213.6,
+      "jp_sales": 139.82,
+      "other_sales": 40.91,
+      "total_revenue": 36235.46,
+      "avg_score": 70.1,
+      "market_share_pct": 8.19
+    },
+    {
+      "platform": "GBA",
+      "games_count": 822,
+      "global_sales": 318.5,
+      "na_sales": 187.54,
+      "eu_sales": 75.25,
+      "jp_sales": 47.33,
+      "other_sales": 7.73,
+      "total_revenue": 9366.4,
+      "avg_score": 68.9,
+      "market_share_pct": 3.57
+    },
+    {
+      "platform": "PSP",
+      "games_count": 1213,
+      "global_sales": 296.28,
+      "na_sales": 108.99,
+      "eu_sales": 68.25,
+      "jp_sales": 76.79,
+      "other_sales": 42.19,
+      "total_revenue": 11805.83,
+      "avg_score": 68.8,
+      "market_share_pct": 3.32
+    },
+    {
+      "platform": "PS4",
+      "games_count": 336,
+      "global_sales": 278.1,
+      "na_sales": 96.8,
+      "eu_sales": 123.7,
+      "jp_sales": 14.3,
+      "other_sales": 43.36,
+      "total_revenue": 16877.57,
+      "avg_score": 71.4,
+      "market_share_pct": 3.12
+    },
+    {
+      "platform": "PC",
+      "games_count": 960,
+      "global_sales": 258.82,
+      "na_sales": 93.28,
+      "eu_sales": 139.68,
+      "jp_sales": 0.17,
+      "other_sales": 24.86,
+      "total_revenue": 11721.66,
+      "avg_score": 69.5,
+      "market_share_pct": 2.9
+    },
+    {
+      "platform": "XB",
+      "games_count": 824,
+      "global_sales": 258.26,
+      "na_sales": 186.69,
+      "eu_sales": 60.95,
+      "jp_sales": 1.38,
+      "other_sales": 8.72,
+      "total_revenue": 13005.39,
+      "avg_score": 69.1,
+      "market_share_pct": 2.9
+    },
+    {
+      "platform": "GB",
+      "games_count": 98,
+      "global_sales": 255.45,
+      "na_sales": 114.32,
+      "eu_sales": 47.82,
+      "jp_sales": 85.12,
+      "other_sales": 8.2,
+      "total_revenue": 7444.27,
+      "avg_score": 73.9,
+      "market_share_pct": 2.86
+    },
+    {
+      "platform": "NES",
+      "games_count": 98,
+      "global_sales": 251.07,
+      "na_sales": 125.94,
+      "eu_sales": 21.15,
+      "jp_sales": 98.65,
+      "other_sales": 5.31,
+      "total_revenue": 13716.92,
+      "avg_score": 74.8,
+      "market_share_pct": 2.81
+    },
+    {
+      "platform": "3DS",
+      "games_count": 509,
+      "global_sales": 247.46,
+      "na_sales": 78.87,
+      "eu_sales": 58.52,
+      "jp_sales": 97.35,
+      "other_sales": 12.63,
+      "total_revenue": 9925.32,
+      "avg_score": 69.5,
+      "market_share_pct": 2.77
+    },
+    {
+      "platform": "N64",
+      "games_count": 319,
+      "global_sales": 218.88,
+      "na_sales": 139.02,
+      "eu_sales": 41.06,
+      "jp_sales": 34.22,
+      "other_sales": 4.38,
+      "total_revenue": 13063.38,
+      "avg_score": 70.4,
+      "market_share_pct": 2.45
+    },
+    {
+      "platform": "SNES",
+      "games_count": 239,
+      "global_sales": 200.05,
+      "na_sales": 61.23,
+      "eu_sales": 19.04,
+      "jp_sales": 116.55,
+      "other_sales": 3.22,
+      "total_revenue": 11011.4,
+      "avg_score": 70.5,
+      "market_share_pct": 2.24
+    },
+    {
+      "platform": "GC",
+      "games_count": 556,
+      "global_sales": 199.36,
+      "na_sales": 133.46,
+      "eu_sales": 38.71,
+      "jp_sales": 21.58,
+      "other_sales": 5.18,
+      "total_revenue": 9828.0,
+      "avg_score": 69.3,
+      "market_share_pct": 2.23
+    },
+    {
+      "platform": "XOne",
+      "games_count": 213,
+      "global_sales": 141.06,
+      "na_sales": 83.19,
+      "eu_sales": 45.65,
+      "jp_sales": 0.34,
+      "other_sales": 11.92,
+      "total_revenue": 8561.3,
+      "avg_score": 71.1,
+      "market_share_pct": 1.58
+    },
+    {
+      "platform": "2600",
+      "games_count": 133,
+      "global_sales": 97.08,
+      "na_sales": 90.6,
+      "eu_sales": 5.47,
+      "jp_sales": 0.0,
+      "other_sales": 0.91,
+      "total_revenue": 3815.61,
+      "avg_score": 69.9,
+      "market_share_pct": 1.09
+    },
+    {
+      "platform": "WiiU",
+      "games_count": 143,
+      "global_sales": 81.86,
+      "na_sales": 38.32,
+      "eu_sales": 24.23,
+      "jp_sales": 12.79,
+      "other_sales": 6.45,
+      "total_revenue": 4813.25,
+      "avg_score": 71.4,
+      "market_share_pct": 0.92
+    },
+    {
+      "platform": "PSV",
+      "games_count": 413,
+      "global_sales": 61.93,
+      "na_sales": 16.2,
+      "eu_sales": 16.33,
+      "jp_sales": 20.96,
+      "other_sales": 8.45,
+      "total_revenue": 2455.5,
+      "avg_score": 68.3,
+      "market_share_pct": 0.69
+    },
+    {
+      "platform": "SAT",
+      "games_count": 173,
+      "global_sales": 33.59,
+      "na_sales": 0.72,
+      "eu_sales": 0.54,
+      "jp_sales": 32.26,
+      "other_sales": 0.07,
+      "total_revenue": 1650.84,
+      "avg_score": 68.4,
+      "market_share_pct": 0.38
+    },
+    {
+      "platform": "GEN",
+      "games_count": 27,
+      "global_sales": 28.36,
+      "na_sales": 19.27,
+      "eu_sales": 5.52,
+      "jp_sales": 2.67,
+      "other_sales": 0.89,
+      "total_revenue": 1558.81,
+      "avg_score": 72.1,
+      "market_share_pct": 0.32
+    },
+    {
+      "platform": "DC",
+      "games_count": 52,
+      "global_sales": 15.97,
+      "na_sales": 5.43,
+      "eu_sales": 1.69,
+      "jp_sales": 8.56,
+      "other_sales": 0.27,
+      "total_revenue": 625.73,
+      "avg_score": 68.5,
+      "market_share_pct": 0.18
+    },
+    {
+      "platform": "SCD",
+      "games_count": 6,
+      "global_sales": 1.87,
+      "na_sales": 1.0,
+      "eu_sales": 0.36,
+      "jp_sales": 0.45,
+      "other_sales": 0.05,
+      "total_revenue": 74.3,
+      "avg_score": 75.5,
+      "market_share_pct": 0.02
+    },
+    {
+      "platform": "NG",
+      "games_count": 12,
+      "global_sales": 1.44,
+      "na_sales": 0.0,
+      "eu_sales": 0.0,
+      "jp_sales": 1.44,
+      "other_sales": 0.0,
+      "total_revenue": 57.6,
+      "avg_score": 70.8,
+      "market_share_pct": 0.02
+    },
+    {
+      "platform": "WS",
+      "games_count": 6,
+      "global_sales": 1.42,
+      "na_sales": 0.0,
+      "eu_sales": 0.0,
+      "jp_sales": 1.42,
+      "other_sales": 0.0,
+      "total_revenue": 59.23,
+      "avg_score": 69.7,
+      "market_share_pct": 0.02
+    },
+    {
+      "platform": "TG16",
+      "games_count": 2,
+      "global_sales": 0.16,
+      "na_sales": 0.0,
+      "eu_sales": 0.0,
+      "jp_sales": 0.16,
+      "other_sales": 0.0,
+      "total_revenue": 5.6,
+      "avg_score": 61.0,
+      "market_share_pct": 0.0
+    },
+    {
+      "platform": "3DO",
+      "games_count": 3,
+      "global_sales": 0.1,
+      "na_sales": 0.0,
+      "eu_sales": 0.0,
+      "jp_sales": 0.1,
+      "other_sales": 0.0,
+      "total_revenue": 3.52,
+      "avg_score": 66.7,
+      "market_share_pct": 0.0
+    },
+    {
+      "platform": "GG",
+      "games_count": 1,
+      "global_sales": 0.04,
+      "na_sales": 0.0,
+      "eu_sales": 0.0,
+      "jp_sales": 0.04,
+      "other_sales": 0.0,
+      "total_revenue": 1.2,
+      "avg_score": 65.0,
+      "market_share_pct": 0.0
+    },
+    {
+      "platform": "PCFX",
+      "games_count": 1,
+      "global_sales": 0.03,
+      "na_sales": 0.0,
+      "eu_sales": 0.0,
+      "jp_sales": 0.03,
+      "other_sales": 0.0,
+      "total_revenue": 1.26,
+      "avg_score": 73.0,
+      "market_share_pct": 0.0
+    }
+  ],
+  "years": [
+    {
+      "year": 1980,
+      "games_count": 9,
+      "global_sales": 11.38,
+      "total_revenue": 452.98,
+      "avg_score": 70.6,
+      "avg_price": 37.77
+    },
+    {
+      "year": 1981,
+      "games_count": 46,
+      "global_sales": 35.77,
+      "total_revenue": 1437.15,
+      "avg_score": 70.2,
+      "avg_price": 40.16
+    },
+    {
+      "year": 1982,
+      "games_count": 36,
+      "global_sales": 28.86,
+      "total_revenue": 1096.3,
+      "avg_score": 70.2,
+      "avg_price": 39.6
+    },
+    {
+      "year": 1983,
+      "games_count": 17,
+      "global_sales": 16.79,
+      "total_revenue": 812.09,
+      "avg_score": 69.5,
+      "avg_price": 44.21
+    },
+    {
+      "year": 1984,
+      "games_count": 14,
+      "global_sales": 50.36,
+      "total_revenue": 2812.89,
+      "avg_score": 75.6,
+      "avg_price": 52.15
+    },
+    {
+      "year": 1985,
+      "games_count": 14,
+      "global_sales": 53.94,
+      "total_revenue": 2936.09,
+      "avg_score": 73.1,
+      "avg_price": 50.13
+    },
+    {
+      "year": 1986,
+      "games_count": 21,
+      "global_sales": 37.07,
+      "total_revenue": 2045.92,
+      "avg_score": 73.7,
+      "avg_price": 54.18
+    },
+    {
+      "year": 1987,
+      "games_count": 16,
+      "global_sales": 21.74,
+      "total_revenue": 1143.86,
+      "avg_score": 74.8,
+      "avg_price": 49.62
+    },
+    {
+      "year": 1988,
+      "games_count": 15,
+      "global_sales": 47.22,
+      "total_revenue": 2520.48,
+      "avg_score": 76.4,
+      "avg_price": 50.79
+    },
+    {
+      "year": 1989,
+      "games_count": 17,
+      "global_sales": 73.45,
+      "total_revenue": 2235.61,
+      "avg_score": 76.4,
+      "avg_price": 36.96
+    },
+    {
+      "year": 1990,
+      "games_count": 16,
+      "global_sales": 49.39,
+      "total_revenue": 2560.96,
+      "avg_score": 76.6,
+      "avg_price": 49.85
+    },
+    {
+      "year": 1991,
+      "games_count": 41,
+      "global_sales": 32.23,
+      "total_revenue": 1609.62,
+      "avg_score": 71.2,
+      "avg_price": 48.75
+    },
+    {
+      "year": 1992,
+      "games_count": 43,
+      "global_sales": 76.16,
+      "total_revenue": 3420.96,
+      "avg_score": 73.5,
+      "avg_price": 48.04
+    },
+    {
+      "year": 1993,
+      "games_count": 60,
+      "global_sales": 45.98,
+      "total_revenue": 2497.45,
+      "avg_score": 70.8,
+      "avg_price": 53.78
+    },
+    {
+      "year": 1994,
+      "games_count": 121,
+      "global_sales": 79.17,
+      "total_revenue": 3834.8,
+      "avg_score": 70.2,
+      "avg_price": 50.96
+    },
+    {
+      "year": 1995,
+      "games_count": 219,
+      "global_sales": 88.11,
+      "total_revenue": 4444.02,
+      "avg_score": 69.2,
+      "avg_price": 49.48
+    },
+    {
+      "year": 1996,
+      "games_count": 263,
+      "global_sales": 199.15,
+      "total_revenue": 9558.1,
+      "avg_score": 70.1,
+      "avg_price": 49.68
+    },
+    {
+      "year": 1997,
+      "games_count": 289,
+      "global_sales": 200.98,
+      "total_revenue": 10259.66,
+      "avg_score": 70.7,
+      "avg_price": 50.49
+    },
+    {
+      "year": 1998,
+      "games_count": 379,
+      "global_sales": 256.47,
+      "total_revenue": 12608.33,
+      "avg_score": 70.0,
+      "avg_price": 50.51
+    },
+    {
+      "year": 1999,
+      "games_count": 338,
+      "global_sales": 251.27,
+      "total_revenue": 12224.5,
+      "avg_score": 70.5,
+      "avg_price": 51.03
+    },
+    {
+      "year": 2000,
+      "games_count": 349,
+      "global_sales": 201.56,
+      "total_revenue": 9847.84,
+      "avg_score": 69.5,
+      "avg_price": 49.28
+    },
+    {
+      "year": 2001,
+      "games_count": 482,
+      "global_sales": 331.47,
+      "total_revenue": 15052.7,
+      "avg_score": 70.9,
+      "avg_price": 44.5
+    },
+    {
+      "year": 2002,
+      "games_count": 829,
+      "global_sales": 395.52,
+      "total_revenue": 18224.53,
+      "avg_score": 69.7,
+      "avg_price": 44.58
+    },
+    {
+      "year": 2003,
+      "games_count": 775,
+      "global_sales": 357.85,
+      "total_revenue": 16647.18,
+      "avg_score": 69.9,
+      "avg_price": 45.62
+    },
+    {
+      "year": 2004,
+      "games_count": 763,
+      "global_sales": 419.31,
+      "total_revenue": 19036.24,
+      "avg_score": 69.9,
+      "avg_price": 43.96
+    },
+    {
+      "year": 2005,
+      "games_count": 941,
+      "global_sales": 459.94,
+      "total_revenue": 20223.43,
+      "avg_score": 69.1,
+      "avg_price": 43.99
+    },
+    {
+      "year": 2006,
+      "games_count": 1008,
+      "global_sales": 521.04,
+      "total_revenue": 22429.72,
+      "avg_score": 68.9,
+      "avg_price": 45.19
+    },
+    {
+      "year": 2007,
+      "games_count": 1202,
+      "global_sales": 611.13,
+      "total_revenue": 29469.93,
+      "avg_score": 69.7,
+      "avg_price": 45.84
+    },
+    {
+      "year": 2008,
+      "games_count": 1428,
+      "global_sales": 678.9,
+      "total_revenue": 34013.65,
+      "avg_score": 69.1,
+      "avg_price": 45.78
+    },
+    {
+      "year": 2009,
+      "games_count": 1431,
+      "global_sales": 667.3,
+      "total_revenue": 33667.25,
+      "avg_score": 69.1,
+      "avg_price": 46.24
+    },
+    {
+      "year": 2010,
+      "games_count": 1259,
+      "global_sales": 600.45,
+      "total_revenue": 31265.9,
+      "avg_score": 69.3,
+      "avg_price": 46.62
+    },
+    {
+      "year": 2011,
+      "games_count": 1139,
+      "global_sales": 515.99,
+      "total_revenue": 27362.25,
+      "avg_score": 69.5,
+      "avg_price": 47.66
+    },
+    {
+      "year": 2012,
+      "games_count": 657,
+      "global_sales": 363.54,
+      "total_revenue": 19536.96,
+      "avg_score": 69.4,
+      "avg_price": 48.98
+    },
+    {
+      "year": 2013,
+      "games_count": 546,
+      "global_sales": 368.11,
+      "total_revenue": 20344.55,
+      "avg_score": 70.3,
+      "avg_price": 50.07
+    },
+    {
+      "year": 2014,
+      "games_count": 582,
+      "global_sales": 337.05,
+      "total_revenue": 18857.97,
+      "avg_score": 69.8,
+      "avg_price": 51.19
+    },
+    {
+      "year": 2015,
+      "games_count": 614,
+      "global_sales": 264.44,
+      "total_revenue": 15171.41,
+      "avg_score": 70.1,
+      "avg_price": 51.38
+    },
+    {
+      "year": 2016,
+      "games_count": 344,
+      "global_sales": 70.93,
+      "total_revenue": 4065.25,
+      "avg_score": 69.5,
+      "avg_price": 52.28
+    },
+    {
+      "year": 2017,
+      "games_count": 3,
+      "global_sales": 0.05,
+      "total_revenue": 2.71,
+      "avg_score": 71.7,
+      "avg_price": 48.32
+    }
+  ],
+  "regional_breakdown": {
+    "NA": {
+      "code": "NA",
+      "name": "América do Norte",
+      "sales_millions": 4392.95,
+      "revenue_usd_billions": 226.24,
+      "share_pct": 49.2,
+      "top_genres": [
+        "Action",
+        "Sports",
+        "Shooter"
+      ],
+      "top_publisher": "Nintendo",
+      "top_franchise": "Call of Duty / Super Mario",
+      "country_codes": [
+        "USA",
+        "CAN",
+        "MEX"
+      ]
+    },
+    "EU": {
+      "code": "EU",
+      "name": "Europa",
+      "sales_millions": 2434.13,
+      "revenue_usd_billions": 129.01,
+      "share_pct": 27.3,
+      "top_genres": [
+        "Action",
+        "Sports",
+        "Shooter"
+      ],
+      "top_publisher": "Electronic Arts",
+      "top_franchise": "FIFA / Grand Theft Auto",
+      "country_codes": [
+        "GBR",
+        "DEU",
+        "FRA",
+        "ITA",
+        "ESP",
+        "NLD",
+        "POL",
+        "SWE",
+        "NOR",
+        "FIN",
+        "DNK",
+        "PRT",
+        "BEL",
+        "AUT",
+        "CHE",
+        "IRL",
+        "GRC",
+        "CZE",
+        "ROU",
+        "HUN"
+      ]
+    },
+    "JP": {
+      "code": "JP",
+      "name": "Japão",
+      "sales_millions": 1291.02,
+      "revenue_usd_billions": 62.23,
+      "share_pct": 14.5,
+      "top_genres": [
+        "Role-Playing",
+        "Platform",
+        "Action"
+      ],
+      "top_publisher": "Nintendo",
+      "top_franchise": "Pokemon / Dragon Quest / Final Fantasy",
+      "country_codes": [
+        "JPN"
+      ]
+    },
+    "OTHER": {
+      "code": "OTHER",
+      "name": "Resto do Mundo (América do Sul, Oceania, Ásia)",
+      "sales_millions": 797.75,
+      "revenue_usd_billions": 39.89,
+      "share_pct": 8.9,
+      "top_genres": [
+        "Action",
+        "Sports",
+        "Racing"
+      ],
+      "top_publisher": "Electronic Arts",
+      "top_franchise": "Pro Evolution Soccer / GTA",
+      "country_codes": [
+        "BRA",
+        "ARG",
+        "CHL",
+        "COL",
+        "AUS",
+        "NZL",
+        "ZAF",
+        "IND",
+        "RUS",
+        "KOR",
+        "CHN",
+        "SAU",
+        "ARE",
+        "EGY"
+      ]
+    }
+  },
+  "correlations": {
+    "score_vs_sales": {
+      "r": 0.352,
+      "description": "Correlação positiva moderada: Jogos com notas altas na crítica vendem substancialmente mais cópias no mercado global.",
+      "p_value": "< 0.001"
+    },
+    "price_vs_sales": {
+      "r": 0.087,
+      "description": "Correlação baixa a neutra: O preço de tabela ($19 a $60) não é uma barreira negativa para jogos de alto prestígio; títulos AAA full-price dominam o faturamento bruto.",
+      "p_value": "< 0.05"
+    },
+    "price_vs_revenue": {
+      "r": 0.169,
+      "description": "Forte correlação no volume financeiro: Jogos com preço cheio combinados a alto volume geram mais de 78% do faturamento total da indústria.",
+      "p_value": "< 0.001"
+    },
+    "publisher_size_vs_sales": {
+      "r": 0.745,
+      "description": "Forte correlação de escala: Editoras com portfólios extensos dominam a receita acumulada, embora a Nintendo apresente a maior eficiência de venda por jogo lançado.",
+      "p_value": "< 0.001"
+    }
+  },
+  "vis_network": {
+    "nodes": [
+      {
+        "id": "pub_Nintendo",
+        "label": "Nintendo",
+        "group": "publisher",
+        "value": 1786.56,
+        "size": 51,
+        "mass": 17,
+        "title": "<b>Nintendo</b><br>Vendas: 1786.56M cópias<br>Faturamento: $77178.81M<br>Jogos: 703<br>Nota Média: 74.3/100",
+        "shape": "dot",
+        "color": {
+          "background": "#8b5cf6",
+          "border": "#ffffff",
+          "highlight": {
+            "background": "#a855f7",
+            "border": "#ffffff"
+          }
+        },
+        "font": {
+          "color": "#ffffff",
+          "size": 14,
+          "face": "Inter",
+          "bold": true
+        }
+      },
+      {
+        "id": "pub_Electronic Arts",
+        "label": "Electronic Arts",
+        "group": "publisher",
+        "value": 1110.32,
+        "size": 31,
+        "mass": 11,
+        "title": "<b>Electronic Arts</b><br>Vendas: 1110.32M cópias<br>Faturamento: $58798.63M<br>Jogos: 1351<br>Nota Média: 71.4/100",
+        "shape": "dot",
+        "color": {
+          "background": "#3b82f6",
+          "border": "#ffffff",
+          "highlight": {
+            "background": "#a855f7",
+            "border": "#ffffff"
+          }
+        },
+        "font": {
+          "color": "#ffffff",
+          "size": 14,
+          "face": "Inter",
+          "bold": true
+        }
+      },
+      {
+        "id": "pub_Activision",
+        "label": "Activision",
+        "group": "publisher",
+        "value": 727.46,
+        "size": 28,
+        "mass": 7,
+        "title": "<b>Activision</b><br>Vendas: 727.46M cópias<br>Faturamento: $38942.31M<br>Jogos: 975<br>Nota Média: 69.6/100",
+        "shape": "dot",
+        "color": {
+          "background": "#3b82f6",
+          "border": "#ffffff",
+          "highlight": {
+            "background": "#a855f7",
+            "border": "#ffffff"
+          }
+        },
+        "font": {
+          "color": "#ffffff",
+          "size": 14,
+          "face": "Inter",
+          "bold": true
+        }
+      },
+      {
+        "id": "pub_Sony Computer Entertainment",
+        "label": "Sony Computer Entertainment",
+        "group": "publisher",
+        "value": 607.5,
+        "size": 28,
+        "mass": 6,
+        "title": "<b>Sony Computer Entertainment</b><br>Vendas: 607.5M cópias<br>Faturamento: $30999.2M<br>Jogos: 683<br>Nota Média: 71.2/100",
+        "shape": "dot",
+        "color": {
+          "background": "#3b82f6",
+          "border": "#ffffff",
+          "highlight": {
+            "background": "#a855f7",
+            "border": "#ffffff"
+          }
+        },
+        "font": {
+          "color": "#ffffff",
+          "size": 14,
+          "face": "Inter",
+          "bold": true
+        }
+      },
+      {
+        "id": "pub_Ubisoft",
+        "label": "Ubisoft",
+        "group": "publisher",
+        "value": 474.72,
+        "size": 28,
+        "mass": 4,
+        "title": "<b>Ubisoft</b><br>Vendas: 474.72M cópias<br>Faturamento: $24055.73M<br>Jogos: 921<br>Nota Média: 69.5/100",
+        "shape": "dot",
+        "color": {
+          "background": "#3b82f6",
+          "border": "#ffffff",
+          "highlight": {
+            "background": "#a855f7",
+            "border": "#ffffff"
+          }
+        },
+        "font": {
+          "color": "#ffffff",
+          "size": 14,
+          "face": "Inter",
+          "bold": true
+        }
+      },
+      {
+        "id": "pub_Take-Two Interactive",
+        "label": "Take-Two Interactive",
+        "group": "publisher",
+        "value": 399.54,
+        "size": 28,
+        "mass": 3,
+        "title": "<b>Take-Two Interactive</b><br>Vendas: 399.54M cópias<br>Faturamento: $21805.03M<br>Jogos: 413<br>Nota Média: 71.0/100",
+        "shape": "dot",
+        "color": {
+          "background": "#3b82f6",
+          "border": "#ffffff",
+          "highlight": {
+            "background": "#a855f7",
+            "border": "#ffffff"
+          }
+        },
+        "font": {
+          "color": "#ffffff",
+          "size": 14,
+          "face": "Inter",
+          "bold": true
+        }
+      },
+      {
+        "id": "pub_THQ",
+        "label": "THQ",
+        "group": "publisher",
+        "value": 340.77,
+        "size": 28,
+        "mass": 3,
+        "title": "<b>THQ</b><br>Vendas: 340.77M cópias<br>Faturamento: $16010.64M<br>Jogos: 715<br>Nota Média: 69.2/100",
+        "shape": "dot",
+        "color": {
+          "background": "#3b82f6",
+          "border": "#ffffff",
+          "highlight": {
+            "background": "#a855f7",
+            "border": "#ffffff"
+          }
+        },
+        "font": {
+          "color": "#ffffff",
+          "size": 14,
+          "face": "Inter",
+          "bold": true
+        }
+      },
+      {
+        "id": "pub_Konami Digital Entertainment",
+        "label": "Konami Digital Entertainment",
+        "group": "publisher",
+        "value": 283.64,
+        "size": 28,
+        "mass": 3,
+        "title": "<b>Konami Digital Entertainment</b><br>Vendas: 283.64M cópias<br>Faturamento: $13840.45M<br>Jogos: 832<br>Nota Média: 69.4/100",
+        "shape": "dot",
+        "color": {
+          "background": "#3b82f6",
+          "border": "#ffffff",
+          "highlight": {
+            "background": "#a855f7",
+            "border": "#ffffff"
+          }
+        },
+        "font": {
+          "color": "#ffffff",
+          "size": 14,
+          "face": "Inter",
+          "bold": true
+        }
+      },
+      {
+        "id": "genre_Action",
+        "label": "Action",
+        "group": "genre",
+        "value": 1751.18,
+        "size": 29,
+        "mass": 2,
+        "title": "<b>Gênero: Action</b><br>Vendas: 1751.18M<br>Jogos: 3316",
+        "shape": "diamond",
+        "color": {
+          "background": "#10b981",
+          "border": "#34d399",
+          "highlight": {
+            "background": "#059669",
+            "border": "#ffffff"
+          }
+        },
+        "font": {
+          "color": "#e2e8f0",
+          "size": 12,
+          "face": "Inter"
+        }
+      },
+      {
+        "id": "genre_Sports",
+        "label": "Sports",
+        "group": "genre",
+        "value": 1330.93,
+        "size": 22,
+        "mass": 2,
+        "title": "<b>Gênero: Sports</b><br>Vendas: 1330.93M<br>Jogos: 2346",
+        "shape": "diamond",
+        "color": {
+          "background": "#10b981",
+          "border": "#34d399",
+          "highlight": {
+            "background": "#059669",
+            "border": "#ffffff"
+          }
+        },
+        "font": {
+          "color": "#e2e8f0",
+          "size": 12,
+          "face": "Inter"
+        }
+      },
+      {
+        "id": "genre_Shooter",
+        "label": "Shooter",
+        "group": "genre",
+        "value": 1037.37,
+        "size": 18,
+        "mass": 2,
+        "title": "<b>Gênero: Shooter</b><br>Vendas: 1037.37M<br>Jogos: 1310",
+        "shape": "diamond",
+        "color": {
+          "background": "#10b981",
+          "border": "#34d399",
+          "highlight": {
+            "background": "#059669",
+            "border": "#ffffff"
+          }
+        },
+        "font": {
+          "color": "#e2e8f0",
+          "size": 12,
+          "face": "Inter"
+        }
+      },
+      {
+        "id": "genre_Role-Playing",
+        "label": "Role-Playing",
+        "group": "genre",
+        "value": 927.37,
+        "size": 18,
+        "mass": 2,
+        "title": "<b>Gênero: Role-Playing</b><br>Vendas: 927.37M<br>Jogos: 1488",
+        "shape": "diamond",
+        "color": {
+          "background": "#10b981",
+          "border": "#34d399",
+          "highlight": {
+            "background": "#059669",
+            "border": "#ffffff"
+          }
+        },
+        "font": {
+          "color": "#e2e8f0",
+          "size": 12,
+          "face": "Inter"
+        }
+      },
+      {
+        "id": "genre_Platform",
+        "label": "Platform",
+        "group": "genre",
+        "value": 831.37,
+        "size": 18,
+        "mass": 2,
+        "title": "<b>Gênero: Platform</b><br>Vendas: 831.37M<br>Jogos: 886",
+        "shape": "diamond",
+        "color": {
+          "background": "#10b981",
+          "border": "#34d399",
+          "highlight": {
+            "background": "#059669",
+            "border": "#ffffff"
+          }
+        },
+        "font": {
+          "color": "#e2e8f0",
+          "size": 12,
+          "face": "Inter"
+        }
+      },
+      {
+        "id": "genre_Misc",
+        "label": "Misc",
+        "group": "genre",
+        "value": 809.96,
+        "size": 18,
+        "mass": 2,
+        "title": "<b>Gênero: Misc</b><br>Vendas: 809.96M<br>Jogos: 1739",
+        "shape": "diamond",
+        "color": {
+          "background": "#10b981",
+          "border": "#34d399",
+          "highlight": {
+            "background": "#059669",
+            "border": "#ffffff"
+          }
+        },
+        "font": {
+          "color": "#e2e8f0",
+          "size": 12,
+          "face": "Inter"
+        }
+      },
+      {
+        "id": "genre_Racing",
+        "label": "Racing",
+        "group": "genre",
+        "value": 732.04,
+        "size": 18,
+        "mass": 2,
+        "title": "<b>Gênero: Racing</b><br>Vendas: 732.04M<br>Jogos: 1249",
+        "shape": "diamond",
+        "color": {
+          "background": "#10b981",
+          "border": "#34d399",
+          "highlight": {
+            "background": "#059669",
+            "border": "#ffffff"
+          }
+        },
+        "font": {
+          "color": "#e2e8f0",
+          "size": 12,
+          "face": "Inter"
+        }
+      },
+      {
+        "id": "genre_Fighting",
+        "label": "Fighting",
+        "group": "genre",
+        "value": 448.91,
+        "size": 18,
+        "mass": 2,
+        "title": "<b>Gênero: Fighting</b><br>Vendas: 448.91M<br>Jogos: 848",
+        "shape": "diamond",
+        "color": {
+          "background": "#10b981",
+          "border": "#34d399",
+          "highlight": {
+            "background": "#059669",
+            "border": "#ffffff"
+          }
+        },
+        "font": {
+          "color": "#e2e8f0",
+          "size": 12,
+          "face": "Inter"
+        }
+      },
+      {
+        "id": "plat_PS2",
+        "label": "PS2",
+        "group": "platform",
+        "value": 1255.64,
+        "size": 27,
+        "mass": 2,
+        "title": "<b>Plataforma: PS2</b><br>Vendas: 1255.64M",
+        "shape": "triangle",
+        "color": {
+          "background": "#f59e0b",
+          "border": "#fbbf24",
+          "highlight": {
+            "background": "#d97706",
+            "border": "#ffffff"
+          }
+        },
+        "font": {
+          "color": "#e2e8f0",
+          "size": 12,
+          "face": "Inter"
+        }
+      },
+      {
+        "id": "plat_X360",
+        "label": "X360",
+        "group": "platform",
+        "value": 979.96,
+        "size": 21,
+        "mass": 2,
+        "title": "<b>Plataforma: X360</b><br>Vendas: 979.96M",
+        "shape": "triangle",
+        "color": {
+          "background": "#f59e0b",
+          "border": "#fbbf24",
+          "highlight": {
+            "background": "#d97706",
+            "border": "#ffffff"
+          }
+        },
+        "font": {
+          "color": "#e2e8f0",
+          "size": 12,
+          "face": "Inter"
+        }
+      },
+      {
+        "id": "plat_PS3",
+        "label": "PS3",
+        "group": "platform",
+        "value": 957.84,
+        "size": 21,
+        "mass": 2,
+        "title": "<b>Plataforma: PS3</b><br>Vendas: 957.84M",
+        "shape": "triangle",
+        "color": {
+          "background": "#f59e0b",
+          "border": "#fbbf24",
+          "highlight": {
+            "background": "#d97706",
+            "border": "#ffffff"
+          }
+        },
+        "font": {
+          "color": "#e2e8f0",
+          "size": 12,
+          "face": "Inter"
+        }
+      },
+      {
+        "id": "plat_Wii",
+        "label": "Wii",
+        "group": "platform",
+        "value": 926.71,
+        "size": 20,
+        "mass": 2,
+        "title": "<b>Plataforma: Wii</b><br>Vendas: 926.71M",
+        "shape": "triangle",
+        "color": {
+          "background": "#f59e0b",
+          "border": "#fbbf24",
+          "highlight": {
+            "background": "#d97706",
+            "border": "#ffffff"
+          }
+        },
+        "font": {
+          "color": "#e2e8f0",
+          "size": 12,
+          "face": "Inter"
+        }
+      },
+      {
+        "id": "plat_DS",
+        "label": "DS",
+        "group": "platform",
+        "value": 822.49,
+        "size": 20,
+        "mass": 2,
+        "title": "<b>Plataforma: DS</b><br>Vendas: 822.49M",
+        "shape": "triangle",
+        "color": {
+          "background": "#f59e0b",
+          "border": "#fbbf24",
+          "highlight": {
+            "background": "#d97706",
+            "border": "#ffffff"
+          }
+        },
+        "font": {
+          "color": "#e2e8f0",
+          "size": 12,
+          "face": "Inter"
+        }
+      },
+      {
+        "id": "plat_PS",
+        "label": "PS",
+        "group": "platform",
+        "value": 730.66,
+        "size": 20,
+        "mass": 2,
+        "title": "<b>Plataforma: PS</b><br>Vendas: 730.66M",
+        "shape": "triangle",
+        "color": {
+          "background": "#f59e0b",
+          "border": "#fbbf24",
+          "highlight": {
+            "background": "#d97706",
+            "border": "#ffffff"
+          }
+        },
+        "font": {
+          "color": "#e2e8f0",
+          "size": 12,
+          "face": "Inter"
+        }
+      },
+      {
+        "id": "game_1",
+        "label": "Wii Sports",
+        "group": "game",
+        "value": 82.74,
+        "size": 32,
+        "mass": 1,
+        "title": "<b>Wii Sports</b><br>Vendas: 82.74M<br>Preço: $24.99<br>Nota: 76/100<br>Plataforma: Wii<br>Editora: Nintendo",
+        "shape": "star",
+        "color": {
+          "background": "#ec4899",
+          "border": "#f472b6",
+          "highlight": {
+            "background": "#db2777",
+            "border": "#ffffff"
+          }
+        },
+        "font": {
+          "color": "#f8fafc",
+          "size": 10,
+          "face": "Inter"
+        }
+      },
+      {
+        "id": "game_2",
+        "label": "Super Mario Bros.",
+        "group": "game",
+        "value": 40.24,
+        "size": 16,
+        "mass": 1,
+        "title": "<b>Super Mario Bros.</b><br>Vendas: 40.24M<br>Preço: $54.99<br>Nota: 94/100<br>Plataforma: NES<br>Editora: Nintendo",
+        "shape": "star",
+        "color": {
+          "background": "#ec4899",
+          "border": "#f472b6",
+          "highlight": {
+            "background": "#db2777",
+            "border": "#ffffff"
+          }
+        },
+        "font": {
+          "color": "#f8fafc",
+          "size": 10,
+          "face": "Inter"
+        }
+      },
+      {
+        "id": "game_3",
+        "label": "Mario Kart Wii",
+        "group": "game",
+        "value": 35.82,
+        "size": 14,
+        "mass": 1,
+        "title": "<b>Mario Kart Wii</b><br>Vendas: 35.82M<br>Preço: $49.99<br>Nota: 82/100<br>Plataforma: Wii<br>Editora: Nintendo",
+        "shape": "star",
+        "color": {
+          "background": "#ec4899",
+          "border": "#f472b6",
+          "highlight": {
+            "background": "#db2777",
+            "border": "#ffffff"
+          }
+        },
+        "font": {
+          "color": "#f8fafc",
+          "size": 10,
+          "face": "Inter"
+        }
+      },
+      {
+        "id": "game_4",
+        "label": "Wii Sports Resort",
+        "group": "game",
+        "value": 33.0,
+        "size": 14,
+        "mass": 1,
+        "title": "<b>Wii Sports Resort</b><br>Vendas: 33.0M<br>Preço: $49.99<br>Nota: 80/100<br>Plataforma: Wii<br>Editora: Nintendo",
+        "shape": "star",
+        "color": {
+          "background": "#ec4899",
+          "border": "#f472b6",
+          "highlight": {
+            "background": "#db2777",
+            "border": "#ffffff"
+          }
+        },
+        "font": {
+          "color": "#f8fafc",
+          "size": 10,
+          "face": "Inter"
+        }
+      },
+      {
+        "id": "game_5",
+        "label": "Pokemon Red/Pokemo...",
+        "group": "game",
+        "value": 31.37,
+        "size": 14,
+        "mass": 1,
+        "title": "<b>Pokemon Red/Pokemon Blue</b><br>Vendas: 31.37M<br>Preço: $31.49<br>Nota: 88/100<br>Plataforma: GB<br>Editora: Nintendo",
+        "shape": "star",
+        "color": {
+          "background": "#ec4899",
+          "border": "#f472b6",
+          "highlight": {
+            "background": "#db2777",
+            "border": "#ffffff"
+          }
+        },
+        "font": {
+          "color": "#f8fafc",
+          "size": 10,
+          "face": "Inter"
+        }
+      },
+      {
+        "id": "game_6",
+        "label": "Tetris",
+        "group": "game",
+        "value": 30.26,
+        "size": 14,
+        "mass": 1,
+        "title": "<b>Tetris</b><br>Vendas: 30.26M<br>Preço: $25.49<br>Nota: 88/100<br>Plataforma: GB<br>Editora: Nintendo",
+        "shape": "star",
+        "color": {
+          "background": "#ec4899",
+          "border": "#f472b6",
+          "highlight": {
+            "background": "#db2777",
+            "border": "#ffffff"
+          }
+        },
+        "font": {
+          "color": "#f8fafc",
+          "size": 10,
+          "face": "Inter"
+        }
+      },
+      {
+        "id": "game_7",
+        "label": "New Super Mario Br...",
+        "group": "game",
+        "value": 30.01,
+        "size": 14,
+        "mass": 1,
+        "title": "<b>New Super Mario Bros.</b><br>Vendas: 30.01M<br>Preço: $39.99<br>Nota: 89/100<br>Plataforma: DS<br>Editora: Nintendo",
+        "shape": "star",
+        "color": {
+          "background": "#ec4899",
+          "border": "#f472b6",
+          "highlight": {
+            "background": "#db2777",
+            "border": "#ffffff"
+          }
+        },
+        "font": {
+          "color": "#f8fafc",
+          "size": 10,
+          "face": "Inter"
+        }
+      },
+      {
+        "id": "game_8",
+        "label": "Wii Play",
+        "group": "game",
+        "value": 29.02,
+        "size": 14,
+        "mass": 1,
+        "title": "<b>Wii Play</b><br>Vendas: 29.02M<br>Preço: $42.49<br>Nota: 58/100<br>Plataforma: Wii<br>Editora: Nintendo",
+        "shape": "star",
+        "color": {
+          "background": "#ec4899",
+          "border": "#f472b6",
+          "highlight": {
+            "background": "#db2777",
+            "border": "#ffffff"
+          }
+        },
+        "font": {
+          "color": "#f8fafc",
+          "size": 10,
+          "face": "Inter"
+        }
+      },
+      {
+        "id": "game_9",
+        "label": "New Super Mario Br...",
+        "group": "game",
+        "value": 28.62,
+        "size": 14,
+        "mass": 1,
+        "title": "<b>New Super Mario Bros. Wii</b><br>Vendas: 28.62M<br>Preço: $49.99<br>Nota: 87/100<br>Plataforma: Wii<br>Editora: Nintendo",
+        "shape": "star",
+        "color": {
+          "background": "#ec4899",
+          "border": "#f472b6",
+          "highlight": {
+            "background": "#db2777",
+            "border": "#ffffff"
+          }
+        },
+        "font": {
+          "color": "#f8fafc",
+          "size": 10,
+          "face": "Inter"
+        }
+      },
+      {
+        "id": "game_10",
+        "label": "Duck Hunt",
+        "group": "game",
+        "value": 28.31,
+        "size": 14,
+        "mass": 1,
+        "title": "<b>Duck Hunt</b><br>Vendas: 28.31M<br>Preço: $57.74<br>Nota: 84/100<br>Plataforma: NES<br>Editora: Nintendo",
+        "shape": "star",
+        "color": {
+          "background": "#ec4899",
+          "border": "#f472b6",
+          "highlight": {
+            "background": "#db2777",
+            "border": "#ffffff"
+          }
+        },
+        "font": {
+          "color": "#f8fafc",
+          "size": 10,
+          "face": "Inter"
+        }
+      },
+      {
+        "id": "game_11",
+        "label": "Nintendogs",
+        "group": "game",
+        "value": 24.76,
+        "size": 14,
+        "mass": 1,
+        "title": "<b>Nintendogs</b><br>Vendas: 24.76M<br>Preço: $39.99<br>Nota: 83/100<br>Plataforma: DS<br>Editora: Nintendo",
+        "shape": "star",
+        "color": {
+          "background": "#ec4899",
+          "border": "#f472b6",
+          "highlight": {
+            "background": "#db2777",
+            "border": "#ffffff"
+          }
+        },
+        "font": {
+          "color": "#f8fafc",
+          "size": 10,
+          "face": "Inter"
+        }
+      },
+      {
+        "id": "game_12",
+        "label": "Mario Kart DS",
+        "group": "game",
+        "value": 23.42,
+        "size": 14,
+        "mass": 1,
+        "title": "<b>Mario Kart DS</b><br>Vendas: 23.42M<br>Preço: $39.99<br>Nota: 91/100<br>Plataforma: DS<br>Editora: Nintendo",
+        "shape": "star",
+        "color": {
+          "background": "#ec4899",
+          "border": "#f472b6",
+          "highlight": {
+            "background": "#db2777",
+            "border": "#ffffff"
+          }
+        },
+        "font": {
+          "color": "#f8fafc",
+          "size": 10,
+          "face": "Inter"
+        }
+      },
+      {
+        "id": "game_13",
+        "label": "Pokemon Gold/Pokem...",
+        "group": "game",
+        "value": 23.1,
+        "size": 14,
+        "mass": 1,
+        "title": "<b>Pokemon Gold/Pokemon Silver</b><br>Vendas: 23.1M<br>Preço: $31.49<br>Nota: 90/100<br>Plataforma: GB<br>Editora: Nintendo",
+        "shape": "star",
+        "color": {
+          "background": "#ec4899",
+          "border": "#f472b6",
+          "highlight": {
+            "background": "#db2777",
+            "border": "#ffffff"
+          }
+        },
+        "font": {
+          "color": "#f8fafc",
+          "size": 10,
+          "face": "Inter"
+        }
+      },
+      {
+        "id": "game_14",
+        "label": "Wii Fit",
+        "group": "game",
+        "value": 22.72,
+        "size": 14,
+        "mass": 1,
+        "title": "<b>Wii Fit</b><br>Vendas: 22.72M<br>Preço: $49.99<br>Nota: 80/100<br>Plataforma: Wii<br>Editora: Nintendo",
+        "shape": "star",
+        "color": {
+          "background": "#ec4899",
+          "border": "#f472b6",
+          "highlight": {
+            "background": "#db2777",
+            "border": "#ffffff"
+          }
+        },
+        "font": {
+          "color": "#f8fafc",
+          "size": 10,
+          "face": "Inter"
+        }
+      },
+      {
+        "id": "game_15",
+        "label": "Wii Fit Plus",
+        "group": "game",
+        "value": 22.0,
+        "size": 14,
+        "mass": 1,
+        "title": "<b>Wii Fit Plus</b><br>Vendas: 22.0M<br>Preço: $49.99<br>Nota: 80/100<br>Plataforma: Wii<br>Editora: Nintendo",
+        "shape": "star",
+        "color": {
+          "background": "#ec4899",
+          "border": "#f472b6",
+          "highlight": {
+            "background": "#db2777",
+            "border": "#ffffff"
+          }
+        },
+        "font": {
+          "color": "#f8fafc",
+          "size": 10,
+          "face": "Inter"
+        }
+      },
+      {
+        "id": "game_16",
+        "label": "Kinect Adventures!",
+        "group": "game",
+        "value": 21.82,
+        "size": 14,
+        "mass": 1,
+        "title": "<b>Kinect Adventures!</b><br>Vendas: 21.82M<br>Preço: $50.99<br>Nota: 61/100<br>Plataforma: X360<br>Editora: Microsoft Game Studios",
+        "shape": "star",
+        "color": {
+          "background": "#ec4899",
+          "border": "#f472b6",
+          "highlight": {
+            "background": "#db2777",
+            "border": "#ffffff"
+          }
+        },
+        "font": {
+          "color": "#f8fafc",
+          "size": 10,
+          "face": "Inter"
+        }
+      },
+      {
+        "id": "game_17",
+        "label": "Grand Theft Auto V",
+        "group": "game",
+        "value": 21.4,
+        "size": 14,
+        "mass": 1,
+        "title": "<b>Grand Theft Auto V</b><br>Vendas: 21.4M<br>Preço: $59.99<br>Nota: 97/100<br>Plataforma: PS3<br>Editora: Take-Two Interactive",
+        "shape": "star",
+        "color": {
+          "background": "#ec4899",
+          "border": "#f472b6",
+          "highlight": {
+            "background": "#db2777",
+            "border": "#ffffff"
+          }
+        },
+        "font": {
+          "color": "#f8fafc",
+          "size": 10,
+          "face": "Inter"
+        }
+      },
+      {
+        "id": "game_18",
+        "label": "Grand Theft Auto: ...",
+        "group": "game",
+        "value": 20.81,
+        "size": 14,
+        "mass": 1,
+        "title": "<b>Grand Theft Auto: San Andreas</b><br>Vendas: 20.81M<br>Preço: $49.99<br>Nota: 95/100<br>Plataforma: PS2<br>Editora: Take-Two Interactive",
+        "shape": "star",
+        "color": {
+          "background": "#ec4899",
+          "border": "#f472b6",
+          "highlight": {
+            "background": "#db2777",
+            "border": "#ffffff"
+          }
+        },
+        "font": {
+          "color": "#f8fafc",
+          "size": 10,
+          "face": "Inter"
+        }
+      },
+      {
+        "id": "game_19",
+        "label": "Super Mario World",
+        "group": "game",
+        "value": 20.61,
+        "size": 14,
+        "mass": 1,
+        "title": "<b>Super Mario World</b><br>Vendas: 20.61M<br>Preço: $54.99<br>Nota: 94/100<br>Plataforma: SNES<br>Editora: Nintendo",
+        "shape": "star",
+        "color": {
+          "background": "#ec4899",
+          "border": "#f472b6",
+          "highlight": {
+            "background": "#db2777",
+            "border": "#ffffff"
+          }
+        },
+        "font": {
+          "color": "#f8fafc",
+          "size": 10,
+          "face": "Inter"
+        }
+      },
+      {
+        "id": "game_20",
+        "label": "Brain Age: Train Y...",
+        "group": "game",
+        "value": 20.22,
+        "size": 14,
+        "mass": 1,
+        "title": "<b>Brain Age: Train Your Brain in Minutes a Day</b><br>Vendas: 20.22M<br>Preço: $33.99<br>Nota: 87/100<br>Plataforma: DS<br>Editora: Nintendo",
+        "shape": "star",
+        "color": {
+          "background": "#ec4899",
+          "border": "#f472b6",
+          "highlight": {
+            "background": "#db2777",
+            "border": "#ffffff"
+          }
+        },
+        "font": {
+          "color": "#f8fafc",
+          "size": 10,
+          "face": "Inter"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "from": "pub_Nintendo",
+        "to": "game_1",
+        "value": 8,
+        "color": {
+          "color": "rgba(139, 92, 246, 0.4)",
+          "highlight": "#a855f7"
+        },
+        "title": "Vendas: 82.74M"
+      },
+      {
+        "from": "game_1",
+        "to": "plat_Wii",
+        "value": 1,
+        "color": {
+          "color": "rgba(245, 158, 11, 0.3)",
+          "highlight": "#fbbf24"
+        }
+      },
+      {
+        "from": "game_1",
+        "to": "genre_Sports",
+        "value": 1,
+        "color": {
+          "color": "rgba(16, 185, 129, 0.3)",
+          "highlight": "#34d399"
+        }
+      },
+      {
+        "from": "pub_Nintendo",
+        "to": "game_2",
+        "value": 4,
+        "color": {
+          "color": "rgba(139, 92, 246, 0.4)",
+          "highlight": "#a855f7"
+        },
+        "title": "Vendas: 40.24M"
+      },
+      {
+        "from": "game_2",
+        "to": "genre_Platform",
+        "value": 1,
+        "color": {
+          "color": "rgba(16, 185, 129, 0.3)",
+          "highlight": "#34d399"
+        }
+      },
+      {
+        "from": "pub_Nintendo",
+        "to": "game_3",
+        "value": 3,
+        "color": {
+          "color": "rgba(139, 92, 246, 0.4)",
+          "highlight": "#a855f7"
+        },
+        "title": "Vendas: 35.82M"
+      },
+      {
+        "from": "game_3",
+        "to": "plat_Wii",
+        "value": 1,
+        "color": {
+          "color": "rgba(245, 158, 11, 0.3)",
+          "highlight": "#fbbf24"
+        }
+      },
+      {
+        "from": "game_3",
+        "to": "genre_Racing",
+        "value": 1,
+        "color": {
+          "color": "rgba(16, 185, 129, 0.3)",
+          "highlight": "#34d399"
+        }
+      },
+      {
+        "from": "pub_Nintendo",
+        "to": "game_4",
+        "value": 3,
+        "color": {
+          "color": "rgba(139, 92, 246, 0.4)",
+          "highlight": "#a855f7"
+        },
+        "title": "Vendas: 33.0M"
+      },
+      {
+        "from": "game_4",
+        "to": "plat_Wii",
+        "value": 1,
+        "color": {
+          "color": "rgba(245, 158, 11, 0.3)",
+          "highlight": "#fbbf24"
+        }
+      },
+      {
+        "from": "game_4",
+        "to": "genre_Sports",
+        "value": 1,
+        "color": {
+          "color": "rgba(16, 185, 129, 0.3)",
+          "highlight": "#34d399"
+        }
+      },
+      {
+        "from": "pub_Nintendo",
+        "to": "game_5",
+        "value": 3,
+        "color": {
+          "color": "rgba(139, 92, 246, 0.4)",
+          "highlight": "#a855f7"
+        },
+        "title": "Vendas: 31.37M"
+      },
+      {
+        "from": "game_5",
+        "to": "genre_Role-Playing",
+        "value": 1,
+        "color": {
+          "color": "rgba(16, 185, 129, 0.3)",
+          "highlight": "#34d399"
+        }
+      },
+      {
+        "from": "pub_Nintendo",
+        "to": "game_6",
+        "value": 3,
+        "color": {
+          "color": "rgba(139, 92, 246, 0.4)",
+          "highlight": "#a855f7"
+        },
+        "title": "Vendas: 30.26M"
+      },
+      {
+        "from": "pub_Nintendo",
+        "to": "game_7",
+        "value": 3,
+        "color": {
+          "color": "rgba(139, 92, 246, 0.4)",
+          "highlight": "#a855f7"
+        },
+        "title": "Vendas: 30.01M"
+      },
+      {
+        "from": "game_7",
+        "to": "plat_DS",
+        "value": 1,
+        "color": {
+          "color": "rgba(245, 158, 11, 0.3)",
+          "highlight": "#fbbf24"
+        }
+      },
+      {
+        "from": "game_7",
+        "to": "genre_Platform",
+        "value": 1,
+        "color": {
+          "color": "rgba(16, 185, 129, 0.3)",
+          "highlight": "#34d399"
+        }
+      },
+      {
+        "from": "pub_Nintendo",
+        "to": "game_8",
+        "value": 2,
+        "color": {
+          "color": "rgba(139, 92, 246, 0.4)",
+          "highlight": "#a855f7"
+        },
+        "title": "Vendas: 29.02M"
+      },
+      {
+        "from": "game_8",
+        "to": "plat_Wii",
+        "value": 1,
+        "color": {
+          "color": "rgba(245, 158, 11, 0.3)",
+          "highlight": "#fbbf24"
+        }
+      },
+      {
+        "from": "game_8",
+        "to": "genre_Misc",
+        "value": 1,
+        "color": {
+          "color": "rgba(16, 185, 129, 0.3)",
+          "highlight": "#34d399"
+        }
+      },
+      {
+        "from": "pub_Nintendo",
+        "to": "game_9",
+        "value": 2,
+        "color": {
+          "color": "rgba(139, 92, 246, 0.4)",
+          "highlight": "#a855f7"
+        },
+        "title": "Vendas: 28.62M"
+      },
+      {
+        "from": "game_9",
+        "to": "plat_Wii",
+        "value": 1,
+        "color": {
+          "color": "rgba(245, 158, 11, 0.3)",
+          "highlight": "#fbbf24"
+        }
+      },
+      {
+        "from": "game_9",
+        "to": "genre_Platform",
+        "value": 1,
+        "color": {
+          "color": "rgba(16, 185, 129, 0.3)",
+          "highlight": "#34d399"
+        }
+      },
+      {
+        "from": "pub_Nintendo",
+        "to": "game_10",
+        "value": 2,
+        "color": {
+          "color": "rgba(139, 92, 246, 0.4)",
+          "highlight": "#a855f7"
+        },
+        "title": "Vendas: 28.31M"
+      },
+      {
+        "from": "game_10",
+        "to": "genre_Shooter",
+        "value": 1,
+        "color": {
+          "color": "rgba(16, 185, 129, 0.3)",
+          "highlight": "#34d399"
+        }
+      },
+      {
+        "from": "pub_Nintendo",
+        "to": "game_11",
+        "value": 2,
+        "color": {
+          "color": "rgba(139, 92, 246, 0.4)",
+          "highlight": "#a855f7"
+        },
+        "title": "Vendas: 24.76M"
+      },
+      {
+        "from": "game_11",
+        "to": "plat_DS",
+        "value": 1,
+        "color": {
+          "color": "rgba(245, 158, 11, 0.3)",
+          "highlight": "#fbbf24"
+        }
+      },
+      {
+        "from": "pub_Nintendo",
+        "to": "game_12",
+        "value": 2,
+        "color": {
+          "color": "rgba(139, 92, 246, 0.4)",
+          "highlight": "#a855f7"
+        },
+        "title": "Vendas: 23.42M"
+      },
+      {
+        "from": "game_12",
+        "to": "plat_DS",
+        "value": 1,
+        "color": {
+          "color": "rgba(245, 158, 11, 0.3)",
+          "highlight": "#fbbf24"
+        }
+      },
+      {
+        "from": "game_12",
+        "to": "genre_Racing",
+        "value": 1,
+        "color": {
+          "color": "rgba(16, 185, 129, 0.3)",
+          "highlight": "#34d399"
+        }
+      },
+      {
+        "from": "pub_Nintendo",
+        "to": "game_13",
+        "value": 2,
+        "color": {
+          "color": "rgba(139, 92, 246, 0.4)",
+          "highlight": "#a855f7"
+        },
+        "title": "Vendas: 23.1M"
+      },
+      {
+        "from": "game_13",
+        "to": "genre_Role-Playing",
+        "value": 1,
+        "color": {
+          "color": "rgba(16, 185, 129, 0.3)",
+          "highlight": "#34d399"
+        }
+      },
+      {
+        "from": "pub_Nintendo",
+        "to": "game_14",
+        "value": 2,
+        "color": {
+          "color": "rgba(139, 92, 246, 0.4)",
+          "highlight": "#a855f7"
+        },
+        "title": "Vendas: 22.72M"
+      },
+      {
+        "from": "game_14",
+        "to": "plat_Wii",
+        "value": 1,
+        "color": {
+          "color": "rgba(245, 158, 11, 0.3)",
+          "highlight": "#fbbf24"
+        }
+      },
+      {
+        "from": "game_14",
+        "to": "genre_Sports",
+        "value": 1,
+        "color": {
+          "color": "rgba(16, 185, 129, 0.3)",
+          "highlight": "#34d399"
+        }
+      },
+      {
+        "from": "pub_Nintendo",
+        "to": "game_15",
+        "value": 2,
+        "color": {
+          "color": "rgba(139, 92, 246, 0.4)",
+          "highlight": "#a855f7"
+        },
+        "title": "Vendas: 22.0M"
+      },
+      {
+        "from": "game_15",
+        "to": "plat_Wii",
+        "value": 1,
+        "color": {
+          "color": "rgba(245, 158, 11, 0.3)",
+          "highlight": "#fbbf24"
+        }
+      },
+      {
+        "from": "game_15",
+        "to": "genre_Sports",
+        "value": 1,
+        "color": {
+          "color": "rgba(16, 185, 129, 0.3)",
+          "highlight": "#34d399"
+        }
+      },
+      {
+        "from": "game_16",
+        "to": "plat_X360",
+        "value": 1,
+        "color": {
+          "color": "rgba(245, 158, 11, 0.3)",
+          "highlight": "#fbbf24"
+        }
+      },
+      {
+        "from": "game_16",
+        "to": "genre_Misc",
+        "value": 1,
+        "color": {
+          "color": "rgba(16, 185, 129, 0.3)",
+          "highlight": "#34d399"
+        }
+      },
+      {
+        "from": "pub_Take-Two Interactive",
+        "to": "game_17",
+        "value": 2,
+        "color": {
+          "color": "rgba(139, 92, 246, 0.4)",
+          "highlight": "#a855f7"
+        },
+        "title": "Vendas: 21.4M"
+      },
+      {
+        "from": "game_17",
+        "to": "plat_PS3",
+        "value": 1,
+        "color": {
+          "color": "rgba(245, 158, 11, 0.3)",
+          "highlight": "#fbbf24"
+        }
+      },
+      {
+        "from": "game_17",
+        "to": "genre_Action",
+        "value": 1,
+        "color": {
+          "color": "rgba(16, 185, 129, 0.3)",
+          "highlight": "#34d399"
+        }
+      },
+      {
+        "from": "pub_Take-Two Interactive",
+        "to": "game_18",
+        "value": 2,
+        "color": {
+          "color": "rgba(139, 92, 246, 0.4)",
+          "highlight": "#a855f7"
+        },
+        "title": "Vendas: 20.81M"
+      },
+      {
+        "from": "game_18",
+        "to": "plat_PS2",
+        "value": 1,
+        "color": {
+          "color": "rgba(245, 158, 11, 0.3)",
+          "highlight": "#fbbf24"
+        }
+      },
+      {
+        "from": "game_18",
+        "to": "genre_Action",
+        "value": 1,
+        "color": {
+          "color": "rgba(16, 185, 129, 0.3)",
+          "highlight": "#34d399"
+        }
+      },
+      {
+        "from": "pub_Nintendo",
+        "to": "game_19",
+        "value": 2,
+        "color": {
+          "color": "rgba(139, 92, 246, 0.4)",
+          "highlight": "#a855f7"
+        },
+        "title": "Vendas: 20.61M"
+      },
+      {
+        "from": "game_19",
+        "to": "genre_Platform",
+        "value": 1,
+        "color": {
+          "color": "rgba(16, 185, 129, 0.3)",
+          "highlight": "#34d399"
+        }
+      },
+      {
+        "from": "pub_Nintendo",
+        "to": "game_20",
+        "value": 2,
+        "color": {
+          "color": "rgba(139, 92, 246, 0.4)",
+          "highlight": "#a855f7"
+        },
+        "title": "Vendas: 20.22M"
+      },
+      {
+        "from": "game_20",
+        "to": "plat_DS",
+        "value": 1,
+        "color": {
+          "color": "rgba(245, 158, 11, 0.3)",
+          "highlight": "#fbbf24"
+        }
+      },
+      {
+        "from": "game_20",
+        "to": "genre_Misc",
+        "value": 1,
+        "color": {
+          "color": "rgba(16, 185, 129, 0.3)",
+          "highlight": "#34d399"
+        }
+      },
+      {
+        "from": "pub_Nintendo",
+        "to": "genre_Platform",
+        "value": 3,
+        "color": {
+          "color": "rgba(6, 182, 212, 0.5)",
+          "highlight": "#06b6d4"
+        },
+        "title": "Gênero Forte: Platform"
+      },
+      {
+        "from": "pub_Electronic Arts",
+        "to": "genre_Sports",
+        "value": 3,
+        "color": {
+          "color": "rgba(6, 182, 212, 0.5)",
+          "highlight": "#06b6d4"
+        },
+        "title": "Gênero Forte: Sports"
+      },
+      {
+        "from": "pub_Activision",
+        "to": "genre_Shooter",
+        "value": 3,
+        "color": {
+          "color": "rgba(6, 182, 212, 0.5)",
+          "highlight": "#06b6d4"
+        },
+        "title": "Gênero Forte: Shooter"
+      },
+      {
+        "from": "pub_Sony Computer Entertainment",
+        "to": "genre_Racing",
+        "value": 3,
+        "color": {
+          "color": "rgba(6, 182, 212, 0.5)",
+          "highlight": "#06b6d4"
+        },
+        "title": "Gênero Forte: Racing"
+      },
+      {
+        "from": "pub_Ubisoft",
+        "to": "genre_Action",
+        "value": 3,
+        "color": {
+          "color": "rgba(6, 182, 212, 0.5)",
+          "highlight": "#06b6d4"
+        },
+        "title": "Gênero Forte: Action"
+      },
+      {
+        "from": "pub_Take-Two Interactive",
+        "to": "genre_Action",
+        "value": 3,
+        "color": {
+          "color": "rgba(6, 182, 212, 0.5)",
+          "highlight": "#06b6d4"
+        },
+        "title": "Gênero Forte: Action"
+      },
+      {
+        "from": "pub_THQ",
+        "to": "genre_Action",
+        "value": 3,
+        "color": {
+          "color": "rgba(6, 182, 212, 0.5)",
+          "highlight": "#06b6d4"
+        },
+        "title": "Gênero Forte: Action"
+      },
+      {
+        "from": "pub_Konami Digital Entertainment",
+        "to": "genre_Sports",
+        "value": 3,
+        "color": {
+          "color": "rgba(6, 182, 212, 0.5)",
+          "highlight": "#06b6d4"
+        },
+        "title": "Gênero Forte: Sports"
+      }
+    ]
+  },
+  "flow_graph": {
+    "nodes": [
+      {
+        "id": "flow-pub-nintendo",
+        "type": "customHub",
+        "position": {
+          "x": 50,
+          "y": 80
+        },
+        "data": {
+          "label": "Nintendo",
+          "category": "Distribuidora Líder",
+          "sales": "1.786M",
+          "revenue": "$89.3B",
+          "color": "#ef4444"
+        }
+      },
+      {
+        "id": "flow-pub-ea",
+        "type": "customHub",
+        "position": {
+          "x": 50,
+          "y": 280
+        },
+        "data": {
+          "label": "Electronic Arts",
+          "category": "Distribuidora Ocidental",
+          "sales": "1.110M",
+          "revenue": "$55.5B",
+          "color": "#3b82f6"
+        }
+      },
+      {
+        "id": "flow-pub-activision",
+        "type": "customHub",
+        "position": {
+          "x": 50,
+          "y": 480
+        },
+        "data": {
+          "label": "Activision",
+          "category": "Líder Shooters",
+          "sales": "727M",
+          "revenue": "$36.3B",
+          "color": "#8b5cf6"
+        }
+      },
+      {
+        "id": "flow-plat-wii",
+        "type": "customHub",
+        "position": {
+          "x": 320,
+          "y": 60
+        },
+        "data": {
+          "label": "Wii / DS Ecosystem",
+          "category": "Hardware & Plataforma",
+          "sales": "1.749M",
+          "revenue": "$69.9B",
+          "color": "#06b6d4"
+        }
+      },
+      {
+        "id": "flow-plat-ps",
+        "type": "customHub",
+        "position": {
+          "x": 320,
+          "y": 270
+        },
+        "data": {
+          "label": "PlayStation (PS2/PS3/PS4)",
+          "category": "Hardware Sony",
+          "sales": "2.491M",
+          "revenue": "$124.5B",
+          "color": "#6366f1"
+        }
+      },
+      {
+        "id": "flow-plat-xbox",
+        "type": "customHub",
+        "position": {
+          "x": 320,
+          "y": 480
+        },
+        "data": {
+          "label": "Xbox 360 / One",
+          "category": "Hardware Microsoft",
+          "sales": "1.120M",
+          "revenue": "$56.0B",
+          "color": "#10b981"
+        }
+      },
+      {
+        "id": "flow-tier-aaa",
+        "type": "customHub",
+        "position": {
+          "x": 600,
+          "y": 140
+        },
+        "data": {
+          "label": "Tier AAA ($59.99)",
+          "category": "Modelo de Preço",
+          "sales": "Metascore > 85",
+          "revenue": "Alta Lucratividade",
+          "color": "#f59e0b"
+        }
+      },
+      {
+        "id": "flow-tier-mid",
+        "type": "customHub",
+        "position": {
+          "x": 600,
+          "y": 380
+        },
+        "data": {
+          "label": "Tier Família / Portátil ($39.99)",
+          "category": "Modelo de Preço",
+          "sales": "Alto Volume",
+          "revenue": "Baixo Risco",
+          "color": "#ec4899"
+        }
+      },
+      {
+        "id": "flow-out-hits",
+        "type": "customHub",
+        "position": {
+          "x": 880,
+          "y": 100
+        },
+        "data": {
+          "label": "Mega Franquias Globais",
+          "category": "GTA, Mario, CoD, Pokemon",
+          "sales": "Vendas > 20M+",
+          "revenue": "Retorno > 1000%",
+          "color": "#10b981"
+        }
+      },
+      {
+        "id": "flow-out-longtail",
+        "type": "customHub",
+        "position": {
+          "x": 880,
+          "y": 350
+        },
+        "data": {
+          "label": "Cauda Longa (Catálogo)",
+          "category": "15.000+ Jogos Médios",
+          "sales": "Consistência de Caixa",
+          "revenue": "Receita Sustentável",
+          "color": "#a855f7"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "id": "e1",
+        "source": "flow-pub-nintendo",
+        "target": "flow-plat-wii",
+        "animated": true,
+        "style": {
+          "stroke": "#ef4444",
+          "strokeWidth": 2
+        }
+      },
+      {
+        "id": "e2",
+        "source": "flow-pub-ea",
+        "target": "flow-plat-ps",
+        "animated": true,
+        "style": {
+          "stroke": "#3b82f6",
+          "strokeWidth": 2
+        }
+      },
+      {
+        "id": "e3",
+        "source": "flow-pub-activision",
+        "target": "flow-plat-xbox",
+        "animated": true,
+        "style": {
+          "stroke": "#8b5cf6",
+          "strokeWidth": 2
+        }
+      },
+      {
+        "id": "e4",
+        "source": "flow-pub-ea",
+        "target": "flow-plat-xbox",
+        "animated": true,
+        "style": {
+          "stroke": "#3b82f6",
+          "strokeWidth": 2
+        }
+      },
+      {
+        "id": "e5",
+        "source": "flow-plat-wii",
+        "target": "flow-tier-mid",
+        "animated": true,
+        "style": {
+          "stroke": "#06b6d4",
+          "strokeWidth": 2
+        }
+      },
+      {
+        "id": "e6",
+        "source": "flow-plat-ps",
+        "target": "flow-tier-aaa",
+        "animated": true,
+        "style": {
+          "stroke": "#6366f1",
+          "strokeWidth": 2
+        }
+      },
+      {
+        "id": "e7",
+        "source": "flow-plat-xbox",
+        "target": "flow-tier-aaa",
+        "animated": true,
+        "style": {
+          "stroke": "#10b981",
+          "strokeWidth": 2
+        }
+      },
+      {
+        "id": "e8",
+        "source": "flow-tier-aaa",
+        "target": "flow-out-hits",
+        "animated": true,
+        "style": {
+          "stroke": "#f59e0b",
+          "strokeWidth": 3
+        }
+      },
+      {
+        "id": "e9",
+        "source": "flow-tier-mid",
+        "target": "flow-out-hits",
+        "animated": true,
+        "style": {
+          "stroke": "#ec4899",
+          "strokeWidth": 2
+        }
+      },
+      {
+        "id": "e10",
+        "source": "flow-tier-aaa",
+        "target": "flow-out-longtail",
+        "animated": true,
+        "style": {
+          "stroke": "#f59e0b",
+          "strokeWidth": 2
+        }
+      },
+      {
+        "id": "e11",
+        "source": "flow-tier-mid",
+        "target": "flow-out-longtail",
+        "animated": true,
+        "style": {
+          "stroke": "#ec4899",
+          "strokeWidth": 2
+        }
+      }
+    ]
+  }
+}
